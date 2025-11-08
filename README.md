@@ -1,5 +1,3 @@
-jael.ee
-
 _A builder’s profile, in one page._
 
 ## Jae W. Lee
