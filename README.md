@@ -8,8 +8,7 @@ Technology entrepreneur and transformation leader. I build AI‑powered products
 - Certified: AI Architect • Professional Scrum Developer • PSM I & II • Odoo Consultant
 - ERP/CRM + agile delivery across North America, APAC, and GCC
 
-[LinkedIn](https://www.linkedin.com/in/leejaew) · [Crunchbase](https://www.crunchbase.com/person/jae-wang-lee) · [Forbes Technology Council](https://councils.forbes.com/profile/Jae-Lee-Startup-Mentor-The-Founder-Institute/816ba3f3-abf7-4f7a-8766-39cd738a7075) · [Amazon Author](https://www.amazon.com/author/leejaew) · [X](https://x.com/leejaew) · [Instagram](https://instagram.com/leejaew) · [Threads](https://threads.com/@leejaew) · [Sora](https://sora.chatgpt.com/profile/leejaew)
-
+[LinkedIn](https://www.linkedin.com/in/leejaew) · [Crunchbase](https://www.crunchbase.com/person/jae-wang-lee) · [Forbes Technology Council](https://councils.forbes.com/profile/Jae-Lee-Startup-Mentor-The-Founder-Institute/816ba3f3-abf7-4f7a-8766-39cd738a7075) · [Amazon Author](https://www.amazon.com/author/leejaew) · [X](https://x.com/leejaew) · [Instagram](https://instagram.com/leejaew) · [Threads](https://threads.com/@leejaew) · [Sora](https://sora.chatgpt.com/profile/leejaew) · [Google Search](https://www.google.com/search?q=jae+lee+python)
 ---
 
 ## Featured
