@@ -13,7 +13,7 @@ Technology entrepreneur and transformation leader. I build AI‑powered products
 ---
 
 ## Featured
-[![Watch: “AI that ships”](https://img.youtube.com/vi/QLD9Ewv9nI4/hqdefault.jpg)](https://www.youtube.com/watch?v=QLD9Ewv9nI4 "Play video on YouTube")
+[![Watch: “Tech Leaders”](https://img.youtube.com/vi/o-uALFJ1H6E/hqdefault.jpg)](https://www.youtube.com/watch?v=o-uALFJ1H6E "Play video on YouTube")
 
 ### What I’m good at
 - Turning ambiguous problems into shipped products
