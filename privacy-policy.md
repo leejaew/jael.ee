@@ -22,8 +22,8 @@ It **does not** apply to:
 
 Those services have their own privacy policies and terms, which govern their collection and use of your information. You should review those documents directly, including:
 
-* Sheetlabs’ Privacy Policy ([sheetlabs.com][1])
-* Google’s Privacy Policy ([Google Policies][2])
+* [Sheetlabs Privacy Policy](https://sheetlabs.com/privacy)
+* [Google Privacy Policy](https://policies.google.com/privacy)
 
 The Author does **not** control, operate, or manage these third-party services and is **not responsible** for their practices.
 
