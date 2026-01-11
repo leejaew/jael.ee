@@ -64,9 +64,9 @@ Your interaction data may also be processed by third-party services (such as She
 Information you provide to the custom GPT may be used by:
 
 * The Platform, in accordance with its own privacy policy and terms of use (for example, for providing responses, maintaining service quality, security, or improving models, as applicable).
-* Sheetlabs, where the GPT uses Sheetlabs APIs to access datasets or spreadsheets, in accordance with Sheetlabs' own policies. ([sheetlabs.com][1])
-* Google, where the GPT uses Google services or data sources (for example, Google Sheets, Maps, or other APIs) in accordance with Google's own policies. ([Google Policies][2])
-* OpenStreetMap, where projects integrate OpenStreetMap mapping services, in accordance with the OpenStreetMap Foundation Privacy Policy. ([OSMF Privacy Policy](https://osmfoundation.org/wiki/Privacy_Policy))
+* Sheetlabs, where the GPT uses Sheetlabs APIs to access datasets or spreadsheets, in accordance with Sheetlabs' own policies.
+* Google, where the GPT uses Google services or data sources (for example, Google Sheets, Maps, or other APIs) in accordance with Google's own policies.
+* OpenStreetMap, where projects integrate OpenStreetMap mapping services, in accordance with the OpenStreetMap Foundation Privacy Policy.
 
 The Author does not determine or control these uses and is not responsible for them.
 
@@ -93,8 +93,8 @@ You should direct privacy-related requests primarily to the Platform and relevan
 
 Custom GPTs may rely on or interact with third-party services, including but not limited to:
 
-* **Sheetlabs**, which may process data sent via API calls to or from spreadsheets or structured datasets. Sheetlabs describes its data collection, usage, and retention practices in its privacy policy: [sheetlabs.com](https://sheetlabs.com/privacy).
-* **Google services**, such as Google Sheets or other APIs, which process data under Google's Privacy Policy: [Google Policies](https://policies.google.com/privacy).
+* **Sheetlabs**, which may process data sent via API calls to or from spreadsheets or structured datasets. Sheetlabs describes its data collection, usage, and retention practices in its privacy policy: [Sheetlabs Privacy Policy](https://sheetlabs.com/privacy).
+* **Google services**, such as Google Sheets or other APIs, which process data under Google's Privacy Policy: [Google Privacy Policy](https://policies.google.com/privacy).
 * **OpenStreetMap**, which may be integrated into projects that display maps or location-based features. Projects using OpenStreetMap are subject to the OpenStreetMap Foundation Privacy Policy: [OSMF Privacy Policy](https://osmfoundation.org/wiki/Privacy_Policy).
 
 
@@ -150,7 +150,7 @@ If you believe a child has provided personal information via the Platform in con
 
 ## 9. International Data Transfers
 
-The Platforms and third-party services (including Sheetlabs, Google, and OpenStreetMap) may process and store data on servers located in multiple jurisdictions. ([sheetlabs.com][1])
+The Platforms and third-party services (including Sheetlabs, Google, and OpenStreetMap) may process and store data on servers located in multiple jurisdictions.
 
 The Author does not choose or control where your data is processed or stored. Any international transfers, cross-border data flows, or localization measures are governed by the policies and technical designs of the Platform and the relevant third-party services.
 
