@@ -1,8 +1,6 @@
 _A builder’s profile, in one page._
-
 ## [Jae W. Lee](https://leejaewang.com)
 Technology entrepreneur and transformation leader. I build AI‑powered products and scalable platforms that move real metrics.
-
 - Launched innovations in supply chain, telehealth, and privacy tech
 - Led global teams and secured multimillion‑dollar funding
 - ERP/CRM + agile delivery across North America, APAC, and GCC
