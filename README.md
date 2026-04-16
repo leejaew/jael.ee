@@ -57,30 +57,30 @@ Earlier in his career, Jae led and delivered digital product and creative techno
 
 ### MCP, GPT, and Agent Systems
 
-- **SG MRT Exits MCP**  
+- [SG MRT Exits MCP](https://github.com/leejaew/sg-mrt-exits-mcp)
   A production-ready MCP server connecting AI agents to Singapore MRT station-exit data for navigation, accessibility, logistics, retail analysis, emergency response, and tourism use cases.
 
 - **Odoo MCP**  
   A production-ready MCP server that connects AI agents with Odoo ERP workflows, including CRUD operations, workflow execution, model introspection, module support, and demo data generation.
 
-- **VisitKorea MCP Series**  
-  A set of production-ready MCP services for Korea tourism, wellness tourism, and medical tourism datasets, with multilingual search, GPS discovery, structured retrieval, sync workflows, caching, validation, and rate limiting.
+- *VisitKorea MCP Series*
+  A set of production-ready [MCP services for Korea tourism](https://github.com/leejaew/visitkorea-mcp), wellness tourism, and medical tourism datasets, with multilingual search, GPS discovery, structured retrieval, sync workflows, caching, validation, and rate limiting.
 
-- **SG MRT Exit Finder**  
+- [SG MRT Exit Finder](https://chatgpt.com/g/g-69df2b17cf108191ac224a88f616f05b-sg-mrt-exit-finder)
   A custom GPT backed by a self-developed API and OpenAI action schema for MRT station-exit lookup, route assistance, and proximity-based discovery.
 
-- **Hawker Buddy SG**  
-  A custom GPT for personalized Singapore hawker recommendations using curated public data and location-aware prompting.
+- [Hawker Buddy SG](https://chatgpt.com/g/g-69b8269717688191841386049db8b604-hawker-buddy-sg)
+  A custom GPT for personalized Singapore hawker recommendations using curated public data and location-aware prompting. Published [Hawker API via RapidAPI](https://rapidapi.com/leejaew/api/hawker/) hub.
 
 ### Full-Stack AI Products
 
-- **Memtoon.com**  
+- [Memtoon.com](https://memtoon.com)
   An AI SaaS product that converts real Google Calendar and Microsoft Outlook events into personalized manga-style webtoon strips using a dual-AI pipeline.
 
-- **Ripplet.me**  
+- [Ripplet.me](https://github.com/leejaew/ripplet.me)
   An open-source Reddit-style discussion platform with AI moderation, forum-level controls, audit logging, automation, and hardened security.
 
-- **SecureChat**  
+- [SecureChat](https://github.com/leejaew/template-secure-chat)
   An open-source encrypted group chat starter platform with browser-side end-to-end encryption, secure room key exchange, WebRTC signaling support, expiring invites, and hardened deployment controls.
 
 ## Industries and Work Context
@@ -112,8 +112,8 @@ He also mentors founders and startup teams through programs including Founder In
 
 Jae is the author of:
 
-- *Python Programming Beginner's Cookbook*
-- *Baseball Inspired Python Tutorial For Beginners*
+- [Python Programming Beginner's Cookbook](https://www.amazon.com/Python-Programming-Beginners-Cookbook-Jae-ebook/dp/B0CRBG59DM)
+- [Baseball Inspired Python Tutorial For Beginners](https://www.amazon.com/Baseball-Inspired-Python-Tutorial-Beginners-ebook/dp/B0C24LVVJM)
 
 He also contributes writing on AI readiness, engineering effectiveness, product thinking, and systems design through Forbes Technology Council and related publications.
 
