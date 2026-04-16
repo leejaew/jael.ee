@@ -98,9 +98,13 @@ Jae's work has crossed:
 
 He has built for B2B, B2C, and B2G environments, from zero-to-one startups to enterprise-grade systems used across multiple countries.
 
-## Speaking and mentoring
+## Speaking, community, and mentorship
 
-Jae has spoken and lectured across startup, product, cloud, and digital transformation contexts, including SXSW, the Cloud and Data Center Convention in Singapore, NUS Business School, James Madison University, and industry panels across Asia.
+Jae contributes to tech and startup communities through speaking, developer advocacy, mentorship, and hackathon judging. 
+
+[![HackGlobal Seoul Hackathon 2025 hosted by Coupang & AngelHack](https://img.youtube.com/vi/o-uALFJ1H6E/hqdefault.jpg)](https://www.youtube.com/watch?v=o-uALFJ1H6E "Play video on YouTube")
+
+He has spoken at conferences, panels, universities, and industry events on AI, product strategy, cloud, digital transformation, and startup execution, while also mentoring founders and supporting early-stage builders across developer and innovation ecosystems.
 
 ![SXSW speaking](jae-sxsw.jpg)
 
