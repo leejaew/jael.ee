@@ -12,7 +12,7 @@ Jae builds AI-powered products, enterprise platforms, and digital systems that s
 
 He has worked as founder, CTO, VP Engineering, Digital Director, and product builder, leading globally distributed teams, shipping production systems, and helping organizations move from concept to commercial execution. Across that journey, he has combined hands-on engineering with product strategy, enterprise integration, and delivery leadership.
 
-## What Jae Has Built
+## What Jae has built
 
 Jae has led and shipped products across multiple categories:
 
@@ -23,39 +23,39 @@ Jae has led and shipped products across multiple categories:
 - Consumer, social, and community platforms across mobile, web, and content systems
 - Enterprise web, app, and digital transformation programs for public and private sector organizations
 
-## Selected Career Story
+## Selected career story
 
-### Building AI for Operations
+### Building AI for operations
 
 Jae is currently Co-Founder and CEO of FMInsight, an AI agent-powered platform for facility management. The product is designed to help building operations teams move from reactive issue handling toward predictive, proactive decision-making.
 
 Before that, during Antler in MENAP, he helped shape the market thesis, product direction, and early validation work behind the company.
 
-### Leading Digital Transformation
+### Leading digital transformation
 
 At MBLM in Dubai, Jae led digital transformation and brand experience work across the GCC and Korea. He directed web, app, and UI or UX programs for organizations such as Dubai World Trade Centre Hospitality, Dubai Exhibition Centre, UAE Accountability Authority, and Abu Dhabi Accountability Authority. He also supported internal GenAI adoption by creating workflows, prompt systems, and Python tools that reduced manual effort and improved delivery quality.
 
-### Scaling Complex Platforms
+### Scaling complex platforms
 
 At Quincus, Jae led a 70+ person engineering organization across 8 countries. The platform supported supply chain visibility and logistics orchestration at a scale of 800 million monthly API calls. His work included AI and ML capabilities for dynamic rating and forecasting, as well as enterprise integrations across ERP, WMS, OMS, gateways, middleware, and partner adapters.
 
-### Building Venture-Backed Products
+### Building venture-backed products
 
 At Kempus, Jae co-founded a zero-knowledge social platform for verified college students, raised $3 million in seed funding, and expanded to 33 universities in the United States. He led the company across product, engineering, growth, and execution, including AI-supported personalization and a RAG-based career guidance workflow.
 
-### Shipping Travel and Healthcare Products
+### Shipping travel and healthcare products
 
 As Founding CTO of WorldRoamer, Jae built the technology foundation for an OTA platform that launched with more than 50,000 listings at MVP stage. The platform included CRS and channel manager integrations, payment and partnership integrations, and ML-based fraud detection.
 
 At RingMD, he led engineering for a telemedicine platform recognized within Singapore's Ministry of Health regulatory sandbox. The work combined real-time consultations, wearable IoT integrations, Salesforce Sales Cloud across 32 countries, and AI-assisted engagement workflows.
 
-### Building for Global Brands
+### Building for global brands
 
 Earlier in his career, Jae led and delivered digital product and creative technology work for organizations including Samsung, Hyundai, Kia, L'Oréal Korea, 3M Korea, MCM Worldwide, Hanwha Group, Diageo, and the Korea Tourism Organization. His work across agencies, startups, and ventures covered mobile apps, social platforms, AR, branded experiences, analytics, and customer-facing digital systems.
 
-## Recent AI and Platform Projects
+## Recent AI and platform projects
 
-### MCP, GPT, and Agent Systems
+### MCP, GPT, and Agents
 
 - [SG MRT Exits MCP](https://github.com/leejaew/sg-mrt-exits-mcp)
   A production-ready MCP server connecting AI agents to Singapore MRT station-exit data for navigation, accessibility, logistics, retail analysis, emergency response, and tourism use cases.
@@ -72,7 +72,7 @@ Earlier in his career, Jae led and delivered digital product and creative techno
 - [Hawker Buddy SG](https://chatgpt.com/g/g-69b8269717688191841386049db8b604-hawker-buddy-sg)
   A custom GPT for personalized Singapore hawker recommendations using curated public data and location-aware prompting. Published [Hawker API via RapidAPI](https://rapidapi.com/leejaew/api/hawker/) hub.
 
-### Full-Stack AI Products
+### Full-stack AI products
 
 - [Memtoon.com](https://memtoon.com)
   An AI SaaS product that converts real Google Calendar and Microsoft Outlook events into personalized manga-style webtoon strips using a dual-AI pipeline.
@@ -83,7 +83,7 @@ Earlier in his career, Jae led and delivered digital product and creative techno
 - [SecureChat](https://github.com/leejaew/template-secure-chat)
   An open-source encrypted group chat starter platform with browser-side end-to-end encryption, secure room key exchange, WebRTC signaling support, expiring invites, and hardened deployment controls.
 
-## Industries and Work Context
+## Industries and work context
 
 Jae's work has crossed:
 
@@ -98,7 +98,7 @@ Jae's work has crossed:
 
 He has built for B2B, B2C, and B2G environments, from zero-to-one startups to enterprise-grade systems used across multiple countries.
 
-## Speaking and Mentoring
+## Speaking and mentoring
 
 Jae has spoken and lectured across startup, product, cloud, and digital transformation contexts, including SXSW, the Cloud and Data Center Convention in Singapore, NUS Business School, James Madison University, and industry panels across Asia.
 
