@@ -1,6 +1,6 @@
 # Privacy Policy for custom GPTs authored by Jae W. Lee
 
-**Last updated:** May 15, 2025
+**Last updated:** January 11, 2026
 
 This Privacy Policy describes, at a high level, how information may be processed when you interact with custom GPTs authored by **Jae W. Lee** (the “Author”) and made available through third-party AI platforms (the “Platforms”).
 

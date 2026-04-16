@@ -1,42 +1,131 @@
-_A builder’s profile, in one page._
-## [Jae W. Lee](https://leejaewang.com)
-Technology entrepreneur and transformation leader. I build AI‑powered products and scalable platforms that move real metrics.
-- Launched innovations in supply chain, telehealth, and privacy tech
-- Led global teams and secured multimillion‑dollar funding
-- Certified: AI Architect • Professional Scrum Developer • PSM I & II • Odoo Consultant
-- ERP/CRM + agile delivery across North America, APAC, and GCC
+# Jae W. Lee
 
-[LinkedIn](https://www.linkedin.com/in/leejaew) · [Crunchbase](https://www.crunchbase.com/person/jae-wang-lee) · [Forbes Technology Council](https://councils.forbes.com/profile/Jae-Lee-Startup-Mentor-The-Founder-Institute/816ba3f3-abf7-4f7a-8766-39cd738a7075) · [Amazon Author](https://www.amazon.com/author/leejaew) · [X](https://x.com/leejaew) · [Instagram](https://instagram.com/leejaew) · [Threads](https://threads.com/@leejaew) · [Sora](https://sora.chatgpt.com/profile/leejaew) · [Google Search](https://www.google.com/search?q=jae+lee+python)
+Technology executive, founder, and product builder working across AI, platforms, and digital transformation.
 
----
+[LinkedIn](https://www.linkedin.com/in/leejaew/) • [Amazon Author](https://www.amazon.com/author/leejaew) • [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AEk_c1uPgFbZsaQRWRXWPYNUnkDJEkTufmAcLtW9m0fjLk-MdzfdXZs3V444Bncl42n1ufa9lSii94fg2c6GOQ&user=iyafmpcAAAAJ) • [Forbes Technology Council](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.forbes.com%2Fcouncils%2Fforbestechcouncil+jae+lee&sca_esv=55e9f3c856495c1e&rlz=1C5CHFA_enSG1091SG1091&sxsrf=ANbL-n7yaFxVl-bcE_-x9OF93ufeIijErw%3A1776276379744&ei=m9Pfae2NLZ7g1e8PkPmF8Q0&biw=1470&bih=780)
 
-## Featured
-[![Watch: “Tech Leaders”](https://img.youtube.com/vi/o-uALFJ1H6E/hqdefault.jpg)](https://www.youtube.com/watch?v=o-uALFJ1H6E "Play video on YouTube")
+![Jae Lee](jae-hero.jpg)
 
-### What I’m good at
-- Turning ambiguous problems into shipped products
-- Marrying AI/ML with workflow, data, and UX
-- Scaling platforms: modular architecture, clean APIs, observability
-- Change that sticks: agile coaching, metrics, and ops readiness
+## About
 
----
+Jae builds AI-powered products, enterprise platforms, and digital systems that solve operational problems at real scale. His work spans APAC, North America, and the GCC across logistics, telehealth, travel, higher education, enterprise workflow, brand experience, and applied AI.
 
-## Books
-**Python Programming Beginner’s Cookbook**  
-[Amazon](https://www.amazon.com/dp/B0CR8G87HX) · [Goodreads](https://www.goodreads.com/book/show/204675405-python-programming-beginner-s-cookbook)
+He has worked as founder, CTO, VP Engineering, Digital Director, and product builder, leading globally distributed teams, shipping production systems, and helping organizations move from concept to commercial execution. Across that journey, he has combined hands-on engineering with product strategy, enterprise integration, and delivery leadership.
 
-**Baseball Inspired Python Tutorial for Beginners**  
-[Amazon](https://www.amazon.in/dp/B0CM3Q5MTF) · [Goodreads](https://www.goodreads.com/book/show/128401140-baseball-inspired-python-tutorial-for-beginners)
+## What Jae Has Built
 
----
+Jae has led and shipped products across multiple categories:
 
-## Focus areas
-- AI/GenAI product strategy
-- Data platforms, MLOps, and evaluation
-- ERP/CRM with Odoo and integrations
-- Privacy, security, and compliance by design
+- AI and agent-powered products, including MCP servers, custom GPTs, RAG workflows, and applied LLM tools
+- High-volume logistics and supply chain systems with real-time integrations and large API throughput
+- Telehealth and healthcare platforms with video, IoT, CRM, and public-sector rollout components
+- Travel and OTA platforms with fraud detection, payments, listings, and partner integrations
+- Consumer, social, and community platforms across mobile, web, and content systems
+- Enterprise web, app, and digital transformation programs for public and private sector organizations
 
----
+## Selected Career Story
 
-## Get in touch
-For collaborations, speaking, or advisory: connect on [LinkedIn](https://www.linkedin.com/in/leejaew) or DM on [X](https://x.com/leejaew).
+### Building AI for Operations
+
+Jae is currently Co-Founder and CEO of FMInsight, an AI agent-powered platform for facility management. The product is designed to help building operations teams move from reactive issue handling toward predictive, proactive decision-making.
+
+Before that, during Antler in MENAP, he helped shape the market thesis, product direction, and early validation work behind the company.
+
+### Leading Digital Transformation
+
+At MBLM in Dubai, Jae led digital transformation and brand experience work across the GCC and Korea. He directed web, app, and UI or UX programs for organizations such as Dubai World Trade Centre Hospitality, Dubai Exhibition Centre, UAE Accountability Authority, and Abu Dhabi Accountability Authority. He also supported internal GenAI adoption by creating workflows, prompt systems, and Python tools that reduced manual effort and improved delivery quality.
+
+### Scaling Complex Platforms
+
+At Quincus, Jae led a 70+ person engineering organization across 8 countries. The platform supported supply chain visibility and logistics orchestration at a scale of 800 million monthly API calls. His work included AI and ML capabilities for dynamic rating and forecasting, as well as enterprise integrations across ERP, WMS, OMS, gateways, middleware, and partner adapters.
+
+### Building Venture-Backed Products
+
+At Kempus, Jae co-founded a zero-knowledge social platform for verified college students, raised $3 million in seed funding, and expanded to 33 universities in the United States. He led the company across product, engineering, growth, and execution, including AI-supported personalization and a RAG-based career guidance workflow.
+
+### Shipping Travel and Healthcare Products
+
+As Founding CTO of WorldRoamer, Jae built the technology foundation for an OTA platform that launched with more than 50,000 listings at MVP stage. The platform included CRS and channel manager integrations, payment and partnership integrations, and ML-based fraud detection.
+
+At RingMD, he led engineering for a telemedicine platform recognized within Singapore's Ministry of Health regulatory sandbox. The work combined real-time consultations, wearable IoT integrations, Salesforce Sales Cloud across 32 countries, and AI-assisted engagement workflows.
+
+### Building for Global Brands
+
+Earlier in his career, Jae led and delivered digital product and creative technology work for organizations including Samsung, Hyundai, Kia, L'Oréal Korea, 3M Korea, MCM Worldwide, Hanwha Group, Diageo, and the Korea Tourism Organization. His work across agencies, startups, and ventures covered mobile apps, social platforms, AR, branded experiences, analytics, and customer-facing digital systems.
+
+## Recent AI and Platform Projects
+
+### MCP, GPT, and Agent Systems
+
+- **SG MRT Exits MCP**  
+  A production-ready MCP server connecting AI agents to Singapore MRT station-exit data for navigation, accessibility, logistics, retail analysis, emergency response, and tourism use cases.
+
+- **Odoo MCP**  
+  A production-ready MCP server that connects AI agents with Odoo ERP workflows, including CRUD operations, workflow execution, model introspection, module support, and demo data generation.
+
+- **VisitKorea MCP Series**  
+  A set of production-ready MCP services for Korea tourism, wellness tourism, and medical tourism datasets, with multilingual search, GPS discovery, structured retrieval, sync workflows, caching, validation, and rate limiting.
+
+- **SG MRT Exit Finder**  
+  A custom GPT backed by a self-developed API and OpenAI action schema for MRT station-exit lookup, route assistance, and proximity-based discovery.
+
+- **Hawker Buddy SG**  
+  A custom GPT for personalized Singapore hawker recommendations using curated public data and location-aware prompting.
+
+### Full-Stack AI Products
+
+- **Memtoon.com**  
+  An AI SaaS product that converts real Google Calendar and Microsoft Outlook events into personalized manga-style webtoon strips using a dual-AI pipeline.
+
+- **Ripplet.me**  
+  An open-source Reddit-style discussion platform with AI moderation, forum-level controls, audit logging, automation, and hardened security.
+
+- **SecureChat**  
+  An open-source encrypted group chat starter platform with browser-side end-to-end encryption, secure room key exchange, WebRTC signaling support, expiring invites, and hardened deployment controls.
+
+## Industries and Work Context
+
+Jae's work has crossed:
+
+- Logistics and supply chain
+- Healthcare and telemedicine
+- Travel and tourism
+- Higher education and student platforms
+- Enterprise software and ERP
+- Government and public sector digital transformation
+- Retail, consumer apps, and brand experience
+- Applied AI, agents, and workflow automation
+
+He has built for B2B, B2C, and B2G environments, from zero-to-one startups to enterprise-grade systems used across multiple countries.
+
+## Speaking and Mentoring
+
+Jae has spoken and lectured across startup, product, cloud, and digital transformation contexts, including SXSW, the Cloud and Data Center Convention in Singapore, NUS Business School, James Madison University, and industry panels across Asia.
+
+![SXSW speaking](jae-sxsw.jpg)
+
+![Cloud and Data Center Convention](jae-cloud-datacenter.jpg)
+
+He also mentors founders and startup teams through programs including Founder Institute, Wavesparks, Ignyte, and youth and startup initiatives in the region.
+
+## Publications
+
+Jae is the author of:
+
+- *Python Programming Beginner's Cookbook*
+- *Baseball Inspired Python Tutorial For Beginners*
+
+He also contributes writing on AI readiness, engineering effectiveness, product thinking, and systems design through Forbes Technology Council and related publications.
+
+## Focus
+
+- AI product strategy and applied GenAI
+- LLM applications, RAG, prompt systems, and AI agents
+- MCP architecture and enterprise tool integration
+- Platform architecture, APIs, and secure production systems
+- ERP, CRM, and workflow transformation
+- Product strategy, MVP delivery, and commercialization
+
+## Contact
+
+For collaborations, advisory, speaking, product leadership, or AI transformation work, connect via [LinkedIn](https://www.linkedin.com/in/leejaew/).
