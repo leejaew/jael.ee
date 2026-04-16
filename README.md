@@ -2,7 +2,7 @@
 
 Technology executive, founder, and product builder working across AI, platforms, and digital transformation.
 
-[LinkedIn](https://www.linkedin.com/in/leejaew/) • [Amazon Author](https://www.amazon.com/author/leejaew) • [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AEk_c1uPgFbZsaQRWRXWPYNUnkDJEkTufmAcLtW9m0fjLk-MdzfdXZs3V444Bncl42n1ufa9lSii94fg2c6GOQ&user=iyafmpcAAAAJ) • [Forbes Technology Council](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.forbes.com%2Fcouncils%2Fforbestechcouncil+jae+lee&sca_esv=55e9f3c856495c1e&rlz=1C5CHFA_enSG1091SG1091&sxsrf=ANbL-n7yaFxVl-bcE_-x9OF93ufeIijErw%3A1776276379744&ei=m9Pfae2NLZ7g1e8PkPmF8Q0&biw=1470&bih=780)
+[LinkedIn](https://www.linkedin.com/in/leejaew/) • [Blog](https://blog.jael.ee) • [Amazon Author](https://www.amazon.com/author/leejaew) • [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AEk_c1uPgFbZsaQRWRXWPYNUnkDJEkTufmAcLtW9m0fjLk-MdzfdXZs3V444Bncl42n1ufa9lSii94fg2c6GOQ&user=iyafmpcAAAAJ) • [Forbes Technology Council](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.forbes.com%2Fcouncils%2Fforbestechcouncil+jae+lee&sca_esv=55e9f3c856495c1e&rlz=1C5CHFA_enSG1091SG1091&sxsrf=ANbL-n7yaFxVl-bcE_-x9OF93ufeIijErw%3A1776276379744&ei=m9Pfae2NLZ7g1e8PkPmF8Q0&biw=1470&bih=780)
 
 ![Jae Lee](jae-hero.jpg)
 
@@ -63,7 +63,7 @@ Earlier in his career, Jae led and delivered digital product and creative techno
 - **Odoo MCP**  
   A production-ready MCP server that connects AI agents with Odoo ERP workflows, including CRUD operations, workflow execution, model introspection, module support, and demo data generation.
 
-- *VisitKorea MCP Series*
+- **VisitKorea MCP Series**
   A set of production-ready [MCP services for Korea tourism](https://github.com/leejaew/visitkorea-mcp), wellness tourism, and medical tourism datasets, with multilingual search, GPS discovery, structured retrieval, sync workflows, caching, validation, and rate limiting.
 
 - [SG MRT Exit Finder](https://chatgpt.com/g/g-69df2b17cf108191ac224a88f616f05b-sg-mrt-exit-finder)
@@ -112,8 +112,8 @@ He also mentors founders and startup teams through programs including Founder In
 
 Jae is the author of:
 
-- [Python Programming Beginner's Cookbook](https://www.amazon.com/Python-Programming-Beginners-Cookbook-Jae-ebook/dp/B0CRBG59DM)
-- [Baseball Inspired Python Tutorial For Beginners](https://www.amazon.com/Baseball-Inspired-Python-Tutorial-Beginners-ebook/dp/B0C24LVVJM)
+- *[Python Programming Beginner's Cookbook](https://www.amazon.com/Python-Programming-Beginners-Cookbook-Jae-ebook/dp/B0CRBG59DM)*
+- *[Baseball Inspired Python Tutorial For Beginners](https://www.amazon.com/Baseball-Inspired-Python-Tutorial-Beginners-ebook/dp/B0C24LVVJM)*
 
 He also contributes writing on AI readiness, engineering effectiveness, product thinking, and systems design through Forbes Technology Council and related publications.
 
@@ -125,6 +125,10 @@ He also contributes writing on AI readiness, engineering effectiveness, product 
 - Platform architecture, APIs, and secure production systems
 - ERP, CRM, and workflow transformation
 - Product strategy, MVP delivery, and commercialization
+
+## Advisory
+
+Jae advises founders and companies on AI strategy, AI augmentation, and the move toward AI-native products and operations. He also provides guidance on best practices for using vibe coding platforms, including workflows, tooling, guardrails, and execution. Advisory bookings are accepted via [Hubble](https://app.hubble.social/jaewanglee).
 
 ## Contact
 
