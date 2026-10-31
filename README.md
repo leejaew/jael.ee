@@ -20,6 +20,7 @@
   <img src="jae-hero.jpg" alt="Jae Lee in a working session" width="180">
   <p>
     <a href="https://jael.ee/"><img alt="Website" src="https://img.shields.io/badge/Website-jael.ee-0969da?style=flat"></a>
+    <a href="https://blog.jael.ee/"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.jael.ee-111111?style=flat"></a>
     <a href="https://www.linkedin.com/in/leejaew"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
     <a href="https://hubble.social/jaewanglee"><img alt="Hubble" src="https://img.shields.io/badge/Hubble-111111?style=flat"></a>
     <a href="https://x.com/leejaew"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"></a>
@@ -33,6 +34,7 @@
     <a href="#experience">Experience</a> ·
     <a href="#featured-projects">Projects</a> ·
     <a href="#speaking">Speaking</a> ·
+    <a href="#writing-and-press">Writing</a> ·
     <a href="#contact">Contact</a>
   </p>
 </div>
@@ -185,13 +187,41 @@ Books: [Python Programming Beginner's Cookbook](https://www.amazon.com/Python-Pr
 
 </details>
 
+## Writing and press
+
+Forbes Technology Council notes, and two beginner Python books.
+
+<p>
+  <a href="https://www.google.com/search?q=site%3Aforbes.com%2Fcouncils%2Fforbestechcouncil+%22Jae+Lee%22"><img alt="Forbes Technology Council" src="https://img.shields.io/badge/Forbes-111111?style=flat&logo=forbes&logoColor=white"></a>
+  <a href="https://www.amazon.com/author/leejaew"><img alt="Amazon author" src="https://img.shields.io/badge/Amazon_author-FF9900?style=flat&logo=amazon&logoColor=white"></a>
+  <a href="https://blog.jael.ee/"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.jael.ee-111111?style=flat"></a>
+</p>
+
+| | Book | About | Year |
+| --- | --- | --- | --- |
+| <img src="https://m.media-amazon.com/images/I/51ylPJ8QW5L.jpg" alt="Cover of Python Programming Beginner's Cookbook" width="80"> | [Python Programming Beginner's Cookbook](https://www.amazon.com/Python-Programming-Beginners-Cookbook-Jae-ebook/dp/B0CRBG59DM) | Beginner Python, with clear examples. | 2024 |
+| <img src="https://m.media-amazon.com/images/I/51C%2By2NSEJL.jpg" alt="Cover of Baseball Inspired Python Tutorial For Beginners" width="80"> | [Baseball Inspired Python Tutorial For Beginners](https://www.amazon.com/Baseball-Inspired-Python-Tutorial-Beginners-ebook/dp/B0C24LVVJM) | Beginner Python taught through baseball. | 2023 |
+
+<details markdown="1">
+<summary>Forbes council notes, 2025</summary>
+
+| Date | Title |
+| --- | --- |
+| Mar 19, 2025 | [Ensuring AI Readiness: How Schools And Industries Can Unite](https://www.forbes.com/councils/forbestechcouncil/2025/03/19/ensuring-ai-readiness-how-schools-and-industries-can-unite/) |
+| Apr 15, 2025 | [19 Expert Data Analysis Strategies For Targeted Tech Solutions](https://www.forbes.com/councils/forbestechcouncil/2025/04/15/19-expert-data-analysis-strategies-for-targeted-tech-solutions/) |
+| Mar 6, 2025 | [How Dev Teams Can Continuously Fine-Tune App Performance: Expert Tips](https://www.forbes.com/councils/forbestechcouncil/2025/03/06/how-dev-teams-can-continuously-fine-tune-app-performance-expert-tips/) |
+| May 6, 2025 | [Barriers To Effective Omnichannel Retail (And How To Solve Them)](https://www.forbes.com/councils/forbestechcouncil/2025/05/06/barriers-to-effective-omnichannel-retail-and-how-to-solve-them/) |
+| Jun 24, 2025 | [How To Build Scalable, Reliable And Effective Internal Tech Systems](https://www.forbes.com/councils/forbestechcouncil/2025/06/24/how-to-build-scalable-reliable-and-effective-internal-tech-systems/) |
+
+</details>
+
 ## Mentoring
 
 I mentor at [Founder Institute](https://fi.co/), [Wavesparks](https://wavesparks.co/), [Tech Ranch](https://techranchaustin.com/), [ACE.SG](https://www.ace.sg/), [Ignyte](https://www.ignyte.ae/), and [Hubble](https://hubble.social/jaewanglee), and I advise the founders at the AI platform company.
 
 ## Contact
 
-Singapore. Email [hello@jael.ee](mailto:hello@jael.ee).
+Singapore. Email [hello@jael.ee](mailto:hello@jael.ee). Blog: [blog.jael.ee](https://blog.jael.ee/).
 
 <div align="center">
   <p><a href="mailto:hello@jael.ee">hello@jael.ee</a></p>
