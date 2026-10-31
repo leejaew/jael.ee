@@ -55,12 +55,12 @@ I build the product and lead the people around it.
 
 Four ways to start.
 
-| | What you get | Start |
-| --- | --- | --- |
-| Consulting | Solution architecture for enterprise and public sector work, from discovery through delivery planning. | [Email](mailto:hello@jael.ee) |
-| Advisory | Founder and operator sessions. | [Hubble](https://hubble.social/jaewanglee) |
-| Projects | Gateways, agent systems, MCP servers, and SaaS, architected and written by me. | [Projects](#featured-projects) |
-| Employment | Engineering leadership, interim CEO, and founder roles. | [Experience](#experience) |
+| | |
+| --- | --- |
+| Consulting | Architecture from discovery to delivery. [Email](mailto:hello@jael.ee) |
+| Advisory | Founder and operator sessions. [Hubble](https://hubble.social/jaewanglee) |
+| Projects | Gateways, agents, MCP, and SaaS. [Projects](#featured-projects) |
+| Employment | Senior AI and technology leadership. Former cofounder and CEO, CTO, and VP Engineering. [Experience](#experience) |
 
 ## Tech stack
 
@@ -217,7 +217,7 @@ Forbes Technology Council notes, and two beginner Python books.
 
 ## Mentoring
 
-I mentor at [Founder Institute](https://fi.co/), [Wavesparks](https://wavesparks.co/), [Tech Ranch](https://techranchaustin.com/), [ACE.SG](https://www.ace.sg/), [Ignyte](https://www.ignyte.ae/), and [Hubble](https://hubble.social/jaewanglee), and I advise the founders at the AI platform company.
+I mentor at [Founder Institute](https://fi.co/), [Wavesparks](https://wavesparks.co/), [Tech Ranch](https://techranchaustin.com/), [ACE.SG](https://www.ace.sg/), [Ignyte](https://www.ignyte.ae/), and [Hubble](https://hubble.social/jaewanglee).
 
 ## Contact
 
