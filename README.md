@@ -60,7 +60,7 @@ Four ways to start.
 | Consulting | Architecture from discovery to delivery. [Email](mailto:hello@jael.ee) |
 | Advisory | Founder and operator sessions. [Hubble](https://hubble.social/jaewanglee) |
 | Projects | Gateways, agents, MCP, and SaaS. [Projects](#featured-projects) |
-| Employment | CTO, VP Engineering, or lead AI architect. Former CEO and CTO. [Experience](#experience) |
+| Employment | Senior AI and technology leadership. Former cofounder and CEO, CTO, and VP Engineering. [Experience](#experience) |
 
 ## Tech stack
 
