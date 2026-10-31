@@ -1,10 +1,26 @@
+```text
++-------------------------------------------------------------------------------------+
+|      _   _    _____ _       _____ _____                                             |
+|     | | / \  | ____| |     | ____| ____|                                            |
+|  _  | |/ _ \ |  _| | |     |  _| |  _|                                              |
+| | |_| / ___ \| |___| |___ _| |___| |___                                             |
+|  \___/_/   \_\_____|_____(_)_____|_____|                                            |
+|                                                                                     |
+| role      AI solution architect                                                     |
+| also      Teaching & mentoring Python and AI | Python book author | Startup advisor |
+| building  AI agents | RAG | MCP servers | production AI systems                     |
+| status    open to consulting | advisory | projects | senior roles                   |
+| contact   hello@jael.ee                                                             |
+|                                                                                     |
+| > type /help to see how we can work together                                        |
++-------------------------------------------------------------------------------------+
+```
+
 <div align="center">
   <img src="jae-hero.jpg" alt="Jae Lee in a working session" width="180">
-  <h1>Jae W. Lee</h1>
-  <p><strong>AI solution architect · Teaching &amp; mentoring Python and AI · Python book author · Startup advisor</strong></p>
-  <p>I design, build, and ship AI products, and I lead the teams around them.</p>
   <p>
     <a href="https://jael.ee/"><img alt="Website" src="https://img.shields.io/badge/Website-jael.ee-0969da?style=flat"></a>
+    <a href="https://blog.jael.ee/"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.jael.ee-111111?style=flat"></a>
     <a href="https://www.linkedin.com/in/leejaew"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
     <a href="https://hubble.social/jaewanglee"><img alt="Hubble" src="https://img.shields.io/badge/Hubble-111111?style=flat"></a>
     <a href="https://x.com/leejaew"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"></a>
@@ -18,13 +34,14 @@
     <a href="#experience">Experience</a> ·
     <a href="#featured-projects">Projects</a> ·
     <a href="#speaking">Speaking</a> ·
+    <a href="#writing-and-press">Writing</a> ·
     <a href="#contact">Contact</a>
   </p>
 </div>
 
 ## At a glance
 
-Singapore based. I build the product and lead the people around it.
+I build the product and lead the people around it.
 
 | | |
 | --- | --- |
@@ -78,11 +95,11 @@ Role, company, and years. One line each.
 | Jun 2026 to present | AI instructor | More than 60 classes for working professionals. |
 | Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
 | Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Presales for [allumni.ai](https://www.allumni.ai/). |
-| 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/), Singapore. [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
-| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus, Singapore. $3 million seed. 33 US universities. |
-| Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/), Singapore. More than 70 developers in 8 countries. |
-| Dec 2018 to Dec 2020 | CTO | [WorldRoamer](https://www.worldroamer.com/), Singapore. More than 50,000 listings at MVP. |
-| Jul 2017 to Sep 2018 | VP Engineering | [RingMD](https://www.ring.md/), Singapore. [Ministry of Health](https://www.moh.gov.sg/) sandbox and India's Common Services Centre network. |
+| 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/). [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
+| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus. $3 million seed. 33 US universities. |
+| Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/). More than 70 developers in 8 countries. |
+| Dec 2018 to Dec 2020 | CTO | [WorldRoamer](https://www.worldroamer.com/). More than 50,000 listings at MVP. |
+| Jul 2017 to Sep 2018 | VP Engineering | [RingMD](https://www.ring.md/). [Ministry of Health](https://www.moh.gov.sg/) sandbox and India's Common Services Centre network. |
 | Jun 2016 to Jun 2017 | Director, Creative Technology | GROUP IDD, Seoul. [Samsung](https://www.samsung.com/), [Hyundai](https://www.hyundai.com/worldwide/en), [Kia](https://worldwide.kia.com/en), [L'Oréal](https://www.loreal.com/en/), [3M](https://www.3m.com/), [Burberry](https://www.burberry.com/), [Korea Tourism Organization](https://knto.or.kr/). |
 | 2007 to 2009 | University lecturer | [University of Jendouba](https://uj.rnu.tn/), Béja, Tunisia. |
 
@@ -170,14 +187,42 @@ Books: [Python Programming Beginner's Cookbook](https://www.amazon.com/Python-Pr
 
 </details>
 
+## Writing and press
+
+Forbes Technology Council notes, and two beginner Python books.
+
+<p>
+  <a href="https://www.google.com/search?q=site%3Aforbes.com%2Fcouncils%2Fforbestechcouncil+%22Jae+Lee%22"><img alt="Forbes Technology Council" src="https://img.shields.io/badge/Forbes-111111?style=flat&logo=forbes&logoColor=white"></a>
+  <a href="https://www.amazon.com/author/leejaew"><img alt="Amazon author" src="https://img.shields.io/badge/Amazon_author-FF9900?style=flat&logo=amazon&logoColor=white"></a>
+  <a href="https://blog.jael.ee/"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.jael.ee-111111?style=flat"></a>
+</p>
+
+| | Book | About | Year |
+| --- | --- | --- | --- |
+| <img src="https://m.media-amazon.com/images/I/51ylPJ8QW5L.jpg" alt="Cover of Python Programming Beginner's Cookbook" width="80"> | [Python Programming Beginner's Cookbook](https://www.amazon.com/Python-Programming-Beginners-Cookbook-Jae-ebook/dp/B0CRBG59DM) | Beginner Python, with clear examples. | 2024 |
+| <img src="https://m.media-amazon.com/images/I/51C%2By2NSEJL.jpg" alt="Cover of Baseball Inspired Python Tutorial For Beginners" width="80"> | [Baseball Inspired Python Tutorial For Beginners](https://www.amazon.com/Baseball-Inspired-Python-Tutorial-Beginners-ebook/dp/B0C24LVVJM) | Beginner Python taught through baseball. | 2023 |
+
+<details markdown="1">
+<summary>Forbes council notes, 2025</summary>
+
+| Date | Title |
+| --- | --- |
+| Mar 19, 2025 | [Ensuring AI Readiness: How Schools And Industries Can Unite](https://www.forbes.com/councils/forbestechcouncil/2025/03/19/ensuring-ai-readiness-how-schools-and-industries-can-unite/) |
+| Apr 15, 2025 | [19 Expert Data Analysis Strategies For Targeted Tech Solutions](https://www.forbes.com/councils/forbestechcouncil/2025/04/15/19-expert-data-analysis-strategies-for-targeted-tech-solutions/) |
+| Mar 6, 2025 | [How Dev Teams Can Continuously Fine-Tune App Performance: Expert Tips](https://www.forbes.com/councils/forbestechcouncil/2025/03/06/how-dev-teams-can-continuously-fine-tune-app-performance-expert-tips/) |
+| May 6, 2025 | [Barriers To Effective Omnichannel Retail (And How To Solve Them)](https://www.forbes.com/councils/forbestechcouncil/2025/05/06/barriers-to-effective-omnichannel-retail-and-how-to-solve-them/) |
+| Jun 24, 2025 | [How To Build Scalable, Reliable And Effective Internal Tech Systems](https://www.forbes.com/councils/forbestechcouncil/2025/06/24/how-to-build-scalable-reliable-and-effective-internal-tech-systems/) |
+
+</details>
+
 ## Mentoring
 
 I mentor at [Founder Institute](https://fi.co/), [Wavesparks](https://wavesparks.co/), [Tech Ranch](https://techranchaustin.com/), [ACE.SG](https://www.ace.sg/), [Ignyte](https://www.ignyte.ae/), and [Hubble](https://hubble.social/jaewanglee), and I advise the founders at the AI platform company.
 
 ## Contact
 
-Singapore. Email [hello@jael.ee](mailto:hello@jael.ee).
+Email [hello@jael.ee](mailto:hello@jael.ee). Blog: [blog.jael.ee](https://blog.jael.ee/). [LinkedIn](https://www.linkedin.com/in/leejaew).
 
 <div align="center">
-  <p>Singapore · <a href="mailto:hello@jael.ee">hello@jael.ee</a></p>
+  <p>© 2026 Jae W. Lee · <a href="https://jael.ee/">jael.ee</a></p>
 </div>

@@ -29,6 +29,71 @@
           padding: 16px;
         }
       }
+
+      /* First fenced block is the agent banner. GitHub leaves it as a code block. */
+      .markdown-body .language-text:first-of-type,
+      .markdown-body > pre:first-of-type {
+        position: relative;
+        margin-top: 0;
+        background: #0b0f14;
+        border: 1px solid #1f6feb;
+        border-radius: 12px;
+        box-shadow: 0 0 0 1px rgba(88, 166, 255, 0.2), 0 16px 40px rgba(0, 0, 0, 0.28);
+        padding-top: 2.4rem;
+        overflow: hidden;
+      }
+      .markdown-body .language-text:first-of-type .highlight,
+      .markdown-body .language-text:first-of-type pre,
+      .markdown-body > pre:first-of-type {
+        background: transparent;
+        border: 0;
+        box-shadow: none;
+        margin: 0;
+      }
+      .markdown-body .language-text:first-of-type pre,
+      .markdown-body > pre:first-of-type {
+        padding: 0 1rem 0.8rem;
+        overflow-x: auto;
+        color: #d2f7d2;
+        font-size: clamp(8px, 2.1vw, 13px);
+        line-height: 1.35;
+      }
+      .markdown-body .language-text:first-of-type pre code,
+      .markdown-body > pre:first-of-type code {
+        color: inherit;
+        background: transparent;
+        white-space: pre;
+        word-break: normal;
+        font-size: inherit;
+      }
+      .markdown-body .language-text:first-of-type::before,
+      .markdown-body > pre:first-of-type::before {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        top: 14px;
+        left: 14px;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #ff5f57;
+        box-shadow: 16px 0 0 #febc2e, 32px 0 0 #28c840;
+      }
+      .markdown-body .language-text:first-of-type::after,
+      .markdown-body > pre:first-of-type::after {
+        content: "jael.ee · agent";
+        position: absolute;
+        z-index: 1;
+        top: 10px;
+        left: 0;
+        right: 0;
+        text-align: center;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 12px;
+        letter-spacing: 0.04em;
+        color: #8b949e;
+        pointer-events: none;
+      }
     </style>
   </head>
   <body>
