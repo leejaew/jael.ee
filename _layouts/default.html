@@ -92,14 +92,9 @@
         background: transparent;
         box-shadow: none;
       }
-      /* One width for the header photo and every event photo. */
-      .markdown-body {
-        --shot-width: min(300px, calc((100% - 12px) / 2));
-      }
+      /* Header and event photos. Side-by-side rows share a height on desktop. */
       .markdown-body .shot {
-        width: var(--shot-width);
         max-width: 100%;
-        min-width: 0;
         height: auto;
         flex: 0 0 auto;
         border: 0;
@@ -111,6 +106,7 @@
         line-height: 0;
       }
       .markdown-body .hero-shot .shot {
+        width: 300px;
         border-radius: 8px;
       }
       .markdown-body .site-nav {
@@ -127,9 +123,20 @@
         border: 0;
         background: transparent;
       }
+      .markdown-body .photo-row .shot {
+        width: auto;
+        height: 210px;
+        max-width: none;
+        max-height: 210px;
+      }
       @media (max-width: 600px) {
-        .markdown-body {
-          --shot-width: 100%;
+        .markdown-body .shot,
+        .markdown-body .hero-shot .shot,
+        .markdown-body .photo-row .shot {
+          width: 100%;
+          max-width: 100%;
+          height: auto;
+          max-height: none;
         }
         .markdown-body .photo-row {
           flex-direction: column;

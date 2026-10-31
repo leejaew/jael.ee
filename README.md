@@ -157,8 +157,8 @@ Name, what it is, and the stack.
 ## Speaking
 
 <p class="photo-row" align="center">
-  <img class="shot" src="jae-cybersecurity-panel-2021.jpg" alt="Jae Lee speaking at a cybersecurity panel at the Conrad Centennial Singapore in December 2021" width="300">
-  <img class="shot" src="jae-cloud-datacenter.jpg" alt="Jae Lee speaking on stage at the Singapore Cloud and Datacenter Convention" width="300">
+  <img class="shot" src="jae-cybersecurity-panel-2021.jpg" alt="Jae Lee speaking at a cybersecurity panel at the Conrad Centennial Singapore in December 2021" height="210">
+  <img class="shot" src="jae-cloud-datacenter.jpg" alt="Jae Lee speaking on stage at the Singapore Cloud and Datacenter Convention" height="210">
 </p>
 <p align="center">
   Invited panelist, December 2021, <a href="https://www.hilton.com/en/hotels/sincici-conrad-singapore-marina-bay/">Conrad Centennial Singapore</a><br>
