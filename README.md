@@ -24,7 +24,6 @@ I am the lead AI solution architect at an AI platform company, and I run my own 
 - [Skills and stack](#skills-and-stack)
 - [Speaking and publications](#speaking-and-publications)
 - [Mentoring and teaching](#mentoring-and-teaching)
-- [Education and certifications](#education-and-certifications)
 - [Contact](#contact)
 
 ## How to work with me
@@ -58,34 +57,6 @@ The name is the link when a public page or repo exists. Rows without a link had 
 | [Agent Orchestrator](https://orchestrator.chatforgoodtech.com/) | AI chat and browser task app across multiple models, with shared sign in to [LLM Gateway](https://gateway.chatforgoodtech.com/), routing to a chosen model or the user's own endpoint, and tool calls that drive [Playwright](https://playwright.dev/) browser sessions. Built for an AI platform company. | <a href="https://playwright.dev/"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"></a> |
 | Chat4Physio | Mobile web proof of concept for physiotherapists and patients across language barriers, with spoken translation, summaries, and [National University Hospital](https://www.nuh.com.sg/) exercise video links. No raw audio is stored. No public page. | |
 | Guardian Watch | Early warning platform for child protection in Singapore. Community reports come in through [Telegram](https://telegram.org/) to a secure officer dashboard. A model pipeline classifies reports, and a separate rule based risk engine scores areas and schools under human review. No public page. | <a href="https://telegram.org/"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"></a> |
-
-### Smaller public web apps
-
-Most of these are Python and [Flask](https://flask.palletsprojects.com/en/stable/). The shoe timeline demo is JavaScript.
-
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
-<a href="https://flask.palletsprojects.com/en/stable/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"></a>
-
-| App | What it does |
-| --- | --- |
-| [Habit tracker](https://github.com/leejaew/HabitTracker) | Daily habit streaks, as a web app and a command line tool. |
-| [Password generator](https://github.com/leejaew/RandomPasswordGenerator) | Generates strong passwords. |
-| [Bitcoin price](https://github.com/leejaew/ConvertBitcoinToFiatCurrency) | Live Bitcoin price in USD, EUR, and GBP. |
-| [GPA calculator](https://github.com/leejaew/GPAcalculator) | GPA from course letter grades on a 4.0 scale. |
-| [Typing speed](https://github.com/leejaew/TypingSpeedAndAccuracy) | Typing speed and accuracy test. |
-| [Word finder](https://github.com/leejaew/WordFinder) | English synonyms, antonyms, and definitions. |
-| [Website status](https://github.com/leejaew/WebsiteStatusChecker) | Checks whether a site is up. |
-| [Keyword counter](https://github.com/leejaew/SearchKeywordOccurrences) | Counts keyword hits on a page you choose. |
-| [Temperature converter](https://github.com/leejaew/TemperatureConverter) | Celsius, Fahrenheit, and Kelvin. |
-| [Roman numerals](https://github.com/leejaew/ConvertToRoman) | Converts integers from 1 to 3999 and Roman numerals. |
-| [Days until a date](https://github.com/leejaew/CountDaysRemainingUntilDate) | Counts days from today to a date you pick. |
-| [Vowel counter](https://github.com/leejaew/CountVowelsAndConsonants) | Counts vowels, consonants, words, and characters. |
-| [World Cup winners](https://github.com/leejaew/SortWorldcupWinnersByYears) | Leaderboard of World Cup winning countries. |
-| [Football draft dashboard](https://github.com/leejaew/MergeTwoLists) | Draft analytics from 1970 to 2026. |
-| [Alphabetical sort](https://github.com/leejaew/SortingAlphabeticalOrder) | Sorts words you enter. |
-| [Sort by length](https://github.com/leejaew/SortStringsByLength) | Sorts five strings by length. |
-| [Number guess](https://github.com/leejaew/GuessRandomNumber) | A 1 to 10 guessing game. |
-| [Shoe timeline](https://github.com/leejaew/air_greensock_evolution) | Scroll driven animation of a fictional shoe. |
 
 ## Career
 
@@ -223,23 +194,6 @@ I advise and mentor the founders at the AI platform company where I am the lead 
 I also mentor at [Founder Institute](https://fi.co/), [Wavesparks](https://wavesparks.co/), [Tech Ranch](https://techranchaustin.com/), [ACE.SG](https://www.ace.sg/), [Ignyte](https://www.ignyte.ae/), and [Hubble](https://hubble.social/jaewanglee).
 
 Since June 2026 I have taught more than 60 AI classes to working professionals in North America (US), Europe (UK, Bulgaria, Switzerland), the Middle East (Turkey, Saudi Arabia), and Asia (China, Korea). They bring their own work. Together we turn it into prompts, agent tool use, and agent to tool and agent to agent workflows they can use, and into ways to judge AI output for quality and risk.
-
-## Education and certifications
-
-- [Sungkyunkwan University](https://www.skku.edu/eng/), MBA. Academic scholarship. Coursework completed, thesis pending.
-- [Hanyang Cyber University](https://www.hycu.ac.kr/), Bachelor of Engineering in Computer Science Engineering.
-- [Cornell University, School of Industrial and Labor Relations](https://www.ilr.cornell.edu/), Management Certificate.
-- [Kyung Hee University](https://www.khu.ac.kr/), Computer Science Engineering studies. Two year full scholarship. Left to focus on entrepreneurship.
-
-**Certifications**
-
-- [Replit](https://replit.com/) Master Builder, Jun 2026. Level 5 credential for advanced agentic AI development. Top 1% of Replit Agent users.
-- [Anthropic](https://www.anthropic.com/), Building with the Claude API, May 2026.
-- [Google](https://cloud.google.com/vertex-ai), Prompt Design in Vertex AI, Sep 2025.
-- [Odoo](https://www.odoo.com/) 18, Jul 2025. I built and launched a custom Odoo MCP server for Odoo 18, 19, and 20.
-- [Scrum.org](https://www.scrum.org/): Professional Scrum Developer, Professional Scrum Master II, and Professional Scrum Master I.
-
-**Languages.** English, native or bilingual. Korean, native or bilingual. French, elementary.
 
 ## Contact
 
