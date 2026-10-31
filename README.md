@@ -1,8 +1,23 @@
+```text
++-------------------------------------------------------------------------------------+
+| ######  ####  ###### #         ###### ######                                        |
+|      # #    # #      #         #      #                                             |
+|      # ###### #####  #         #####  #####                                         |
+| #    # #    # #      #         #      #                                             |
+|  ####  #    # ###### ######  # ###### ######                                        |
+|                                                                                     |
+| role      AI solution architect                                                     |
+| also      Teaching & mentoring Python and AI | Python book author | Startup advisor |
+| building  AI agents | RAG | MCP servers | production AI systems                     |
+| status    open to consulting | advisory | projects | senior roles                   |
+| contact   hello@jael.ee                                                             |
+|                                                                                     |
+| > type /help to see how we can work together                                        |
++-------------------------------------------------------------------------------------+
+```
+
 <div align="center">
   <img src="jae-hero.jpg" alt="Jae Lee in a working session" width="180">
-  <h1>Jae W. Lee</h1>
-  <p><strong>AI solution architect · Teaching &amp; mentoring Python and AI · Python book author · Startup advisor</strong></p>
-  <p>I design, build, and ship AI products, and I lead the teams around them.</p>
   <p>
     <a href="https://jael.ee/"><img alt="Website" src="https://img.shields.io/badge/Website-jael.ee-0969da?style=flat"></a>
     <a href="https://www.linkedin.com/in/leejaew"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
@@ -179,5 +194,5 @@ I mentor at [Founder Institute](https://fi.co/), [Wavesparks](https://wavesparks
 Singapore. Email [hello@jael.ee](mailto:hello@jael.ee).
 
 <div align="center">
-  <p>Singapore · <a href="mailto:hello@jael.ee">hello@jael.ee</a></p>
+  <p><a href="mailto:hello@jael.ee">hello@jael.ee</a></p>
 </div>
