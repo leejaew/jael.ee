@@ -41,6 +41,9 @@
         box-shadow: 0 0 0 1px rgba(88, 166, 255, 0.2), 0 16px 40px rgba(0, 0, 0, 0.28);
         padding-top: 2.4rem;
         overflow: hidden;
+        max-width: 100%;
+        box-sizing: border-box;
+        container-type: inline-size;
       }
       .markdown-body .language-text:first-of-type .highlight,
       .markdown-body .language-text:first-of-type pre,
@@ -52,10 +55,15 @@
       }
       .markdown-body .language-text:first-of-type pre,
       .markdown-body > pre:first-of-type {
-        padding: 0 1rem 0.8rem;
-        overflow-x: auto;
+        box-sizing: border-box;
+        width: 100%;
+        max-width: 100%;
+        padding: 0 0.75rem 0.8rem;
+        overflow: hidden;
         color: #d2f7d2;
-        font-size: clamp(8px, 2.1vw, 13px);
+        /* 87 columns. Size from the banner box so the right border and the last character stay inside 390px. */
+        font-size: min(13px, 1.55vw);
+        font-size: min(13px, calc((100cqi - 1.5rem) / 56));
         line-height: 1.35;
       }
       .markdown-body .language-text:first-of-type pre code,
@@ -83,6 +91,50 @@
         border: 0;
         background: transparent;
         box-shadow: none;
+      }
+      /* One width for the header photo and every event photo. */
+      .markdown-body {
+        --shot-width: min(300px, calc((100% - 12px) / 2));
+      }
+      .markdown-body .shot {
+        width: var(--shot-width);
+        max-width: 100%;
+        min-width: 0;
+        height: auto;
+        flex: 0 0 auto;
+        border: 0;
+        background: transparent;
+        box-shadow: none;
+      }
+      .markdown-body .hero-shot {
+        margin: 24px auto;
+        line-height: 0;
+      }
+      .markdown-body .hero-shot .shot {
+        border-radius: 8px;
+      }
+      .markdown-body .site-nav {
+        margin-top: 20px;
+      }
+      .markdown-body .photo-row {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 12px;
+        width: 100%;
+        margin: 0 auto 8px;
+        border: 0;
+        background: transparent;
+      }
+      @media (max-width: 600px) {
+        .markdown-body {
+          --shot-width: 100%;
+        }
+        .markdown-body .photo-row {
+          flex-direction: column;
+          align-items: stretch;
+        }
       }
       .markdown-body .language-text:first-of-type::after,
       .markdown-body > pre:first-of-type::after {
