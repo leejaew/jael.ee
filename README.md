@@ -14,6 +14,7 @@ I am the lead AI solution architect at an AI platform company, and I run my own 
 [![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.com/author/leejaew)
 [![Hubble](https://img.shields.io/badge/Hubble-111111?style=flat)](https://hubble.social/jaewanglee)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/leejaew)
+[![Email](https://img.shields.io/badge/Email-hello%40jael.ee-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello@jael.ee)
 
 ## Contents
 
