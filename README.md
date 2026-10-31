@@ -87,7 +87,7 @@ Languages, platforms, and the tools I ship with.
 
 ## Experience
 
-Role, company, and years. One line each.
+Role, company, and years.
 
 | Years | Role | Organization |
 | --- | --- | --- |
@@ -150,20 +150,14 @@ Name, what it is, and the stack.
 
 ## Speaking
 
-Panels and talks. Photos stay small.
-
-<table>
-  <tr>
-    <td width="320" valign="top">
-      <img src="jae-cybersecurity-panel-2021.jpg" alt="Jae Lee speaking at a cybersecurity panel at the Conrad Centennial Singapore in December 2021" width="300"><br>
-      Invited panelist, December 2021, <a href="https://www.hilton.com/en/hotels/sincici-conrad-singapore-marina-bay/">Conrad Centennial Singapore</a>
-    </td>
-    <td width="320" valign="top">
-      <img src="jae-cloud-datacenter.jpg" alt="Jae Lee speaking on stage at the Singapore Cloud and Datacenter Convention" width="300"><br>
-      Moderator, <a href="https://w.media/singapore-cloud-datacenter-convention-2021/">Singapore Cloud and Datacenter Convention 2021</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="jae-cybersecurity-panel-2021.jpg" alt="Jae Lee speaking at a cybersecurity panel at the Conrad Centennial Singapore in December 2021" width="300">
+  <img src="jae-cloud-datacenter.jpg" alt="Jae Lee speaking on stage at the Singapore Cloud and Datacenter Convention" width="300">
+</p>
+<p align="center">
+  Invited panelist, December 2021, <a href="https://www.hilton.com/en/hotels/sincici-conrad-singapore-marina-bay/">Conrad Centennial Singapore</a><br>
+  Moderator, <a href="https://w.media/singapore-cloud-datacenter-convention-2021/">Singapore Cloud and Datacenter Convention 2021</a>
+</p>
 
 | Year | Role | Event |
 | --- | --- | --- |
@@ -177,7 +171,10 @@ Panels and talks. Photos stay small.
 <details markdown="1">
 <summary>SXSW photo and more rooms</summary>
 
-<img src="jae-sxsw.jpg" alt="Jae Lee with fellow speakers at SXSW in Austin, Texas" width="300">
+<p align="center">
+  <img src="jae-sxsw.jpg" alt="Jae Lee with fellow speakers at SXSW in Austin, Texas" width="300"><br>
+  Speaker, <a href="https://www.sxsw.com/">SXSW</a> 2013 and 2014, Austin, Texas
+</p>
 
 Also [W.Media](https://w.media/), [PCCW Global](https://www.pccwglobalinc.com/), [NUS Business School](https://bschool.nus.edu.sg/), [James Madison University](https://www.jmu.edu/), [Texas McCombs School of Business](https://www.mccombs.utexas.edu/), and [Konkuk University](https://www.konkuk.ac.kr/eng/index.do).
 
