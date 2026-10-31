@@ -1,6 +1,6 @@
 # Jae W. Lee
 
-**AI solution architect | Teaching & mentoring Python and AI | Python book author | Startup advisor**
+**AI solution architect · Teaching & mentoring Python and AI · Python book author · Startup advisor**
 
 I design, build, and ship AI products, and I lead the teams and clients around them. I live in Singapore.
 
