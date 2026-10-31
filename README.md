@@ -17,7 +17,9 @@
 ```
 
 <div align="center">
-  <img src="jae-hero.jpg" alt="Jae Lee in a working session" width="180">
+  <p class="hero-shot">
+    <img class="shot" src="jae-hero.jpg" alt="Jae Lee in a working session" width="300">
+  </p>
   <p>
     <a href="https://jael.ee/"><img alt="Website" src="https://img.shields.io/badge/Website-jael.ee-0969da?style=flat"></a>
     <a href="https://blog.jael.ee/"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.jael.ee-111111?style=flat"></a>
@@ -28,7 +30,7 @@
     <a href="https://www.amazon.com/author/leejaew"><img alt="Amazon author" src="https://img.shields.io/badge/Amazon-FF9900?style=flat&logo=amazon&logoColor=white"></a>
     <a href="mailto:hello@jael.ee"><img alt="Email hello@jael.ee" src="https://img.shields.io/badge/Email-hello%40jael.ee-D14836?style=flat&logo=gmail&logoColor=white"></a>
   </p>
-  <p>
+  <p class="site-nav">
     <a href="#at-a-glance">About</a> ·
     <a href="#work-with-me">Work with me</a> ·
     <a href="#experience">Experience</a> ·
@@ -43,24 +45,28 @@
 
 I build the product and lead the people around it.
 
-| | |
-| --- | --- |
-| Now | Lead AI solution architect at an AI platform company |
-| Scale | More than 70 developers across 8 countries |
-| Founder | $3 million seed, 33 US universities |
-| Teaching | More than 60 AI classes since June 2026 |
-| Product | [Memtoon](https://memtoon.com/), a revenue generating SaaS |
+<table>
+<tbody>
+<tr><td><strong>Now</strong></td><td>Lead AI solution architect at an AI platform company</td></tr>
+<tr><td><strong>Scale</strong></td><td>More than 70 developers across 8 countries</td></tr>
+<tr><td><strong>Founder</strong></td><td>$3 million seed, 33 US universities</td></tr>
+<tr><td><strong>Teaching</strong></td><td>More than 60 AI classes since June 2026</td></tr>
+<tr><td><strong>Product</strong></td><td><a href="https://memtoon.com/">Memtoon</a>, a revenue generating SaaS</td></tr>
+</tbody>
+</table>
 
 ## Work with me
 
 Four ways to start.
 
-| | |
-| --- | --- |
-| Consulting | Architecture from discovery to delivery. [Email](mailto:hello@jael.ee) |
-| Advisory | Founder and operator sessions. [Hubble](https://hubble.social/jaewanglee) |
-| Projects | Gateways, agents, MCP, and SaaS. [Projects](#featured-projects) |
-| Employment | Senior AI and technology leadership. Former cofounder and CEO, CTO, and VP Engineering. [Experience](#experience) |
+<table>
+<tbody>
+<tr><td><strong>Consulting</strong></td><td>Architecture from discovery to delivery. <a href="mailto:hello@jael.ee">Email</a></td></tr>
+<tr><td><strong>Advisory</strong></td><td>Founder and operator sessions. <a href="https://hubble.social/jaewanglee">Hubble</a></td></tr>
+<tr><td><strong>Projects</strong></td><td>Gateways, agents, MCP, and SaaS. <a href="#featured-projects">Projects</a></td></tr>
+<tr><td><strong>Employment</strong></td><td>Senior AI and technology leadership. Former cofounder and CEO, CTO, and VP Engineering. <a href="#experience">Experience</a></td></tr>
+</tbody>
+</table>
 
 ## Tech stack
 
@@ -150,9 +156,9 @@ Name, what it is, and the stack.
 
 ## Speaking
 
-<p align="center">
-  <img src="jae-cybersecurity-panel-2021.jpg" alt="Jae Lee speaking at a cybersecurity panel at the Conrad Centennial Singapore in December 2021" width="300">
-  <img src="jae-cloud-datacenter.jpg" alt="Jae Lee speaking on stage at the Singapore Cloud and Datacenter Convention" width="300">
+<p class="photo-row" align="center">
+  <img class="shot" src="jae-cybersecurity-panel-2021.jpg" alt="Jae Lee speaking at a cybersecurity panel at the Conrad Centennial Singapore in December 2021" height="210">
+  <img class="shot" src="jae-cloud-datacenter.jpg" alt="Jae Lee speaking on stage at the Singapore Cloud and Datacenter Convention" height="210">
 </p>
 <p align="center">
   Invited panelist, December 2021, <a href="https://www.hilton.com/en/hotels/sincici-conrad-singapore-marina-bay/">Conrad Centennial Singapore</a><br>
@@ -172,7 +178,7 @@ Name, what it is, and the stack.
 <summary>SXSW photo and more rooms</summary>
 
 <p align="center">
-  <img src="jae-sxsw.jpg" alt="Jae Lee with fellow speakers at SXSW in Austin, Texas" width="300"><br>
+  <img class="shot" src="jae-sxsw.jpg" alt="Jae Lee with fellow speakers at SXSW in Austin, Texas" width="300"><br>
   Speaker, <a href="https://www.sxsw.com/">SXSW</a> 2013 and 2014, Austin, Texas
 </p>
 
