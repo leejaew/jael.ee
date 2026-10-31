@@ -41,7 +41,7 @@
 
 ## At a glance
 
-Singapore based. I build the product and lead the people around it.
+I build the product and lead the people around it.
 
 | | |
 | --- | --- |
@@ -95,11 +95,11 @@ Role, company, and years. One line each.
 | Jun 2026 to present | AI instructor | More than 60 classes for working professionals. |
 | Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
 | Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Presales for [allumni.ai](https://www.allumni.ai/). |
-| 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/), Singapore. [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
-| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus, Singapore. $3 million seed. 33 US universities. |
-| Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/), Singapore. More than 70 developers in 8 countries. |
-| Dec 2018 to Dec 2020 | CTO | [WorldRoamer](https://www.worldroamer.com/), Singapore. More than 50,000 listings at MVP. |
-| Jul 2017 to Sep 2018 | VP Engineering | [RingMD](https://www.ring.md/), Singapore. [Ministry of Health](https://www.moh.gov.sg/) sandbox and India's Common Services Centre network. |
+| 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/). [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
+| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus. $3 million seed. 33 US universities. |
+| Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/). More than 70 developers in 8 countries. |
+| Dec 2018 to Dec 2020 | CTO | [WorldRoamer](https://www.worldroamer.com/). More than 50,000 listings at MVP. |
+| Jul 2017 to Sep 2018 | VP Engineering | [RingMD](https://www.ring.md/). [Ministry of Health](https://www.moh.gov.sg/) sandbox and India's Common Services Centre network. |
 | Jun 2016 to Jun 2017 | Director, Creative Technology | GROUP IDD, Seoul. [Samsung](https://www.samsung.com/), [Hyundai](https://www.hyundai.com/worldwide/en), [Kia](https://worldwide.kia.com/en), [L'Oréal](https://www.loreal.com/en/), [3M](https://www.3m.com/), [Burberry](https://www.burberry.com/), [Korea Tourism Organization](https://knto.or.kr/). |
 | 2007 to 2009 | University lecturer | [University of Jendouba](https://uj.rnu.tn/), Béja, Tunisia. |
 
@@ -221,8 +221,8 @@ I mentor at [Founder Institute](https://fi.co/), [Wavesparks](https://wavesparks
 
 ## Contact
 
-Singapore. Email [hello@jael.ee](mailto:hello@jael.ee). Blog: [blog.jael.ee](https://blog.jael.ee/).
+Email [hello@jael.ee](mailto:hello@jael.ee). Blog: [blog.jael.ee](https://blog.jael.ee/). [LinkedIn](https://www.linkedin.com/in/leejaew).
 
 <div align="center">
-  <p><a href="mailto:hello@jael.ee">hello@jael.ee</a></p>
+  <p>© 2026 Jae W. Lee · <a href="https://jael.ee/">jael.ee</a></p>
 </div>
