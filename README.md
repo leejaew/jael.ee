@@ -95,11 +95,11 @@ I started as an engineer and founder in Seoul's early mobile and commerce scene,
 
 **AI consultant and lead AI solution architect, Jul 2026 to present.** Independent contractor at an AI platform company.
 
-The company was an agency: dev house work, systems integration, and government tenders as a subcontractor. The founders were first time founders, and there was no senior leadership. Within 60 days I put work systems, operations frameworks, and processes in place, and I led the repositioning and brand refresh toward a platform business. I advise and mentor the founders. The products I architected are [LLM Gateway](https://gateway.chatforgoodtech.com/), [Agent Orchestrator](https://orchestrator.chatforgoodtech.com/), Chat4Physio, and Guardian Watch.
+I put work systems and processes in place within 60 days and led its move toward a platform business. I advise and mentor the founders. The products I architected are [LLM Gateway](https://gateway.chatforgoodtech.com/), [Agent Orchestrator](https://orchestrator.chatforgoodtech.com/), Chat4Physio, and Guardian Watch.
 
 **Entrepreneur in Residence, [Antler](https://www.antler.co/), Oct 2025 to Dec 2025, Riyadh.** I cofounded FMInsight during the residency, an AI agent platform for facility management in Grade A commercial buildings across the GCC. I defined the product strategy, the MVP architecture, and the go to market plan for building owners and operators.
 
-**AI tutor and lecturer, Jun 2026 to present.** See [Mentoring and teaching](#mentoring-and-teaching).
+**AI instructor, Jun 2026 to present.** See [Mentoring and teaching](#mentoring-and-teaching).
 
 ### Founder and operator, 2022 to 2025
 
@@ -219,6 +219,8 @@ Author page: [Amazon](https://www.amazon.com/author/leejaew).
 ## Mentoring and teaching
 
 I advise and mentor the founders at the AI platform company where I am the lead AI solution architect.
+
+I also mentor at [Founder Institute](https://fi.co/), [Wavesparks](https://wavesparks.co/), [Tech Ranch](https://techranchaustin.com/), [ACE.SG](https://www.ace.sg/), [Ignyte](https://www.ignyte.ae/), and [Hubble](https://hubble.social/jaewanglee).
 
 Since June 2026 I have taught more than 60 AI classes to working professionals in North America (US), Europe (UK, Bulgaria, Switzerland), the Middle East (Turkey, Saudi Arabia), and Asia (China, Korea). They bring their own work. Together we turn it into prompts, agent tool use, and agent to tool and agent to agent workflows they can use, and into ways to judge AI output for quality and risk.
 
