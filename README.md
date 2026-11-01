@@ -102,7 +102,7 @@ Role, company, and years.
 | Jul 2026 to present | Lead AI solution architect | AI platform company. Led new platform design, development, and launch, reaching recurring revenue within the first 90 days of project start. |
 | Jun 2026 to present | AI instructor | More than 60 classes for working professionals. |
 | Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
-| Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Presales for [allumni.ai](https://www.allumni.ai/). |
+| Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Led delivery of bilingual Umbraco CMS websites for [DWTC Hospitality](https://www.dwtchospitality.com/en/) and [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) at [Dubai World Trade Centre](https://www.dwtc.com/en/). Presales for [allumni.ai](https://www.allumni.ai/). |
 | 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/). [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
 | Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus. $3 million seed. 33 US universities. |
 | Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/). More than 70 developers in 8 countries. |
@@ -138,6 +138,15 @@ Name, what it is, and the stack.
 | [VisitKorea MCP](https://github.com/leejaew/visitkorea-mcp) | Open source Korea Tourism Organization data for all 17 provinces and major cities. | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![MCP](https://img.shields.io/badge/MCP-111111?style=flat)](https://modelcontextprotocol.io/) |
 | [LLM Gateway](https://gateway.chatforgoodtech.com/) | Multi model inference for an AI platform company, with Stripe billing. | [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)](https://stripe.com/) |
 | [Agent Orchestrator](https://orchestrator.chatforgoodtech.com/) | Chat and browser tasks for an AI platform company. | [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/) |
+| [DWTC Hospitality](https://www.dwtchospitality.com/en/) | Led delivery of the bilingual Umbraco CMS corporate website for DWTC Hospitality, from development through launch. | [![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=flat&logo=umbraco&logoColor=white)](https://umbraco.com/) |
+| [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) | Led delivery of the bilingual Umbraco CMS corporate website for Dubai Exhibition Centre, from development through launch. | [![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=flat&logo=umbraco&logoColor=white)](https://umbraco.com/) |
+
+<details markdown="1">
+<summary>More on the DWTC sites</summary>
+
+DWTC Hospitality covers private events, weddings, corporate and live events, food, venues, menus, and contact pathways. Dubai Exhibition Centre covers exhibitions, conferences, and large scale events for visitors, exhibitors, organizers, and venue services. Delivery included CMS implementation, deployment, and launch with DWTC stakeholders, design, development, content, and QA.
+
+</details>
 
 <details markdown="1">
 <summary>More projects</summary>
