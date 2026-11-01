@@ -99,7 +99,7 @@ Role, company, and years.
 
 | Years | Role | Organization |
 | --- | --- | --- |
-| Jul 2026 to present | Lead AI solution architect | An AI platform company. Work systems within 60 days. |
+| Jul 2026 to present | Lead AI solution architect | AI platform company. Led new platform design, development, and launch, reaching recurring revenue within the first 90 days of project start. |
 | Jun 2026 to present | AI instructor | More than 60 classes for working professionals. |
 | Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
 | Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Presales for [allumni.ai](https://www.allumni.ai/). |
