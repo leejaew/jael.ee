@@ -43,15 +43,17 @@
 
 ## At a glance
 
-I build the product and lead the people around it.
+I am an engineering executive who still ships. I set AI strategy, then architect and build the systems myself. I have been a cofounder and CEO, CTO, and VP of Engineering, delivering for enterprise and government clients in the GCC, Southeast Asia, Korea, India, and the US.
+
+I designed and built <a href="https://gateway.chatforgoodtech.com/">LLM Gateway</a>, a multi model inference platform with credit accounting and auditable billing, and <a href="https://orchestrator.chatforgoodtech.com/">Agent Orchestrator</a> for chat and browser tasks on that platform. AI projects stall on cost, security, data, or people. I design around those points.
 
 <table>
 <tbody>
-<tr><td><strong>Now</strong></td><td>Lead AI solution architect at an AI platform company</td></tr>
-<tr><td><strong>Scale</strong></td><td>More than 70 developers across 8 countries</td></tr>
-<tr><td><strong>Founder</strong></td><td>$3 million seed, 33 US universities</td></tr>
+<tr><td><strong>Scale</strong></td><td>More than 70 developers across 8 countries. <a href="#experience">Experience</a></td></tr>
+<tr><td><strong>Teams</strong></td><td>Tech hubs in Bulgaria, Ukraine, and Vietnam</td></tr>
+<tr><td><strong>Founder</strong></td><td>Multimillion-dollar seed, 33 US universities</td></tr>
 <tr><td><strong>Teaching</strong></td><td>More than 60 AI classes since June 2026</td></tr>
-<tr><td><strong>Product</strong></td><td><a href="https://memtoon.com/">Memtoon</a>, a revenue generating SaaS</td></tr>
+<tr><td><strong>Products</strong></td><td><a href="#featured-projects">Project list</a></td></tr>
 </tbody>
 </table>
 
