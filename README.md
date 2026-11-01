@@ -52,7 +52,7 @@ I designed and built <a href="https://gateway.chatforgoodtech.com/">LLM Gateway<
 <tr><td><strong>Scale</strong></td><td>More than 70 developers across 8 countries. <a href="#experience">Experience</a></td></tr>
 <tr><td><strong>Teams</strong></td><td>Tech hubs set up and managed in Bulgaria, Ukraine, Vietnam, India, Malaysia, and Singapore</td></tr>
 <tr><td><strong>Founder</strong></td><td>Multimillion-dollar seed, 33 US universities</td></tr>
-<tr><td><strong>Teaching</strong></td><td>More than 60 AI classes since June 2026</td></tr>
+<tr><td><strong>Teaching</strong></td><td>More than 70 AI classes since June 2026</td></tr>
 <tr><td><strong>Products</strong></td><td><a href="#featured-projects">Project list</a></td></tr>
 </tbody>
 </table>
@@ -100,7 +100,7 @@ Role, company, and years.
 | Years | Role | Organization |
 | --- | --- | --- |
 | Jul 2026 to present | Lead AI solution architect | AI platform company. Led new platform design, development, and launch, reaching recurring revenue within the first 90 days of project start. |
-| Jun 2026 to present | AI instructor | More than 60 classes for working professionals. |
+| Jun 2026 to present | AI instructor | More than 70 classes for working professionals. |
 | Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
 | Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Led delivery of bilingual Umbraco CMS websites for [DWTC Hospitality](https://www.dwtchospitality.com/en/) and [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) at [Dubai World Trade Centre](https://www.dwtc.com/en/). Presales for [allumni.ai](https://www.allumni.ai/). |
 | 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/). [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
