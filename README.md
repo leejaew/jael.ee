@@ -50,7 +50,7 @@ I designed and built <a href="https://gateway.chatforgoodtech.com/">LLM Gateway<
 <table>
 <tbody>
 <tr><td><strong>Scale</strong></td><td>More than 70 developers across 8 countries. <a href="#experience">Experience</a></td></tr>
-<tr><td><strong>Teams</strong></td><td>Tech hubs in Bulgaria, Ukraine, and Vietnam</td></tr>
+<tr><td><strong>Teams</strong></td><td>Tech hubs set up and managed in Bulgaria, Ukraine, Vietnam, India, Malaysia, and Singapore</td></tr>
 <tr><td><strong>Founder</strong></td><td>Multimillion-dollar seed, 33 US universities</td></tr>
 <tr><td><strong>Teaching</strong></td><td>More than 60 AI classes since June 2026</td></tr>
 <tr><td><strong>Products</strong></td><td><a href="#featured-projects">Project list</a></td></tr>
@@ -99,7 +99,7 @@ Role, company, and years.
 
 | Years | Role | Organization |
 | --- | --- | --- |
-| Jul 2026 to present | Lead AI solution architect | An AI platform company. Work systems within 60 days. |
+| Jul 2026 to present | Lead AI solution architect | AI platform company. Led new platform design, development, and launch, reaching recurring revenue within the first 90 days of project start. |
 | Jun 2026 to present | AI instructor | More than 60 classes for working professionals. |
 | Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
 | Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Presales for [allumni.ai](https://www.allumni.ai/). |
