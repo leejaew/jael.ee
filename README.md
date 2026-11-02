@@ -51,7 +51,7 @@ I designed and built <a href="https://gateway.chatforgoodtech.com/">LLM Gateway<
 <tbody>
 <tr><td><strong>Scale</strong></td><td>More than 70 developers across 8 countries. <a href="#experience">Experience</a></td></tr>
 <tr><td><strong>Teams</strong></td><td>Tech hubs set up and managed in Bulgaria, Ukraine, Vietnam, India, Malaysia, and Singapore</td></tr>
-<tr><td><strong>Founder</strong></td><td>Multimillion-dollar seed, 33 US universities</td></tr>
+<tr><td><strong>Founder</strong></td><td>Multimillion-dollar seed. Expanded to 33 US universities within 6 months of product launch</td></tr>
 <tr><td><strong>Teaching</strong></td><td>More than 70 AI classes since June 2026</td></tr>
 <tr><td><strong>Products</strong></td><td><a href="#featured-projects">Project list</a></td></tr>
 </tbody>
@@ -104,7 +104,7 @@ Role, company, and years.
 | Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
 | Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Led delivery of bilingual Umbraco CMS websites for [DWTC Hospitality](https://www.dwtchospitality.com/en/) and [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) at [Dubai World Trade Centre](https://www.dwtc.com/en/). Presales for [allumni.ai](https://www.allumni.ai/). |
 | 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/). [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
-| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus. $3 million seed. 33 US universities. |
+| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus. $3 million seed. Expanded to 33 US universities within 6 months of product launch. |
 | Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/). More than 70 developers in 8 countries. |
 | Dec 2018 to Dec 2020 | CTO | [WorldRoamer](https://www.worldroamer.com/). More than 50,000 listings at MVP. |
 | Jul 2017 to Sep 2018 | VP Engineering | [RingMD](https://www.ring.md/). [Ministry of Health](https://www.moh.gov.sg/) sandbox and India's Common Services Centre network. |
