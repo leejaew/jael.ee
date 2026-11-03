@@ -131,7 +131,7 @@ Name, what it is, and the stack.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Memtoon](https://memtoon.com/) | Revenue generating SaaS. A week becomes a manga webtoon. | [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)](https://claude.com/) [![FLUX](https://img.shields.io/badge/FLUX-111111?style=flat)](https://bfl.ai/) |
+| [Memtoon](https://memtoon.com/) | Revenue generating SaaS. A week becomes a manga webtoon. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
 | [JustRelay](https://justrelay-gcp-frontend.vercel.app/) | Public demo. AI home services concierge for expats in Korea. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
 | [api.jael.ee](https://api.jael.ee/) | More than 80 public data APIs and more than 50,000 records across 9 markets. | [![API](https://img.shields.io/badge/API-0A66C2?style=flat)](https://api.jael.ee/) |
 | Odoo MCP | Search and update Odoo through 17 tools. Read only by default. No public repo. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)](https://www.odoo.com/) |
