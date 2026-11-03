@@ -168,18 +168,18 @@ DWTC Hospitality covers private events, weddings, corporate and live events, foo
 ## Speaking
 
 <p class="photo-row" align="center">
-  <img class="shot" src="jae-cybersecurity-panel-2021.jpg" alt="Jae Lee speaking at a cybersecurity panel at the Conrad Centennial Singapore in December 2021" height="210">
+  <img class="shot" src="jae-cybersecurity-panel-2021.jpg" alt="Jae Lee on a cybersecurity leaders panel on Zero Trust Architecture at the Conrad Centennial Singapore in 2021" height="210">
   <img class="shot" src="jae-cloud-datacenter.jpg" alt="Jae Lee speaking on stage at the Singapore Cloud and Datacenter Convention" height="210">
 </p>
 <p align="center">
-  Invited panelist, December 2021, <a href="https://www.hilton.com/en/hotels/sincici-conrad-singapore-marina-bay/">Conrad Centennial Singapore</a><br>
+  Panelist, cybersecurity leaders panel on Zero Trust Architecture, 2021, <a href="https://www.hilton.com/en/hotels/sincici-conrad-singapore-marina-bay/">Conrad Centennial Singapore</a><br>
   Moderator, <a href="https://w.media/singapore-cloud-datacenter-convention-2021/">Singapore Cloud and Datacenter Convention 2021</a>
 </p>
 
 | Year | Role | Event |
 | --- | --- | --- |
 | 2022 | Speaker | [Digital Week South Asia 2022](https://w.media/digital-week-south-asia-2022/) |
-| Dec 2021 | Invited panelist | [Conrad Centennial Singapore](https://www.hilton.com/en/hotels/sincici-conrad-singapore-marina-bay/) |
+| 2021 | Panelist | Cybersecurity leaders panel on Zero Trust Architecture, [Conrad Centennial Singapore](https://www.hilton.com/en/hotels/sincici-conrad-singapore-marina-bay/) |
 | 2021 | Moderator | [Singapore Cloud and Datacenter Convention 2021](https://w.media/singapore-cloud-datacenter-convention-2021/) |
 | 2021 | Panelist | [Horasis Asia Meeting 2021](https://horasis.org/wp-content/uploads/2021/11/Horasis-Asia-Meeting-2021-programme-1.pdf) |
 | 2018 | Speaker | [Cloud and Datacenter Convention, Jakarta](https://www.linkedin.com/feed/update/urn:li:activity:6441245262517202944/) |
