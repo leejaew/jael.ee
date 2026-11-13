@@ -119,7 +119,6 @@ Role, company, and years.
 | --- | --- | --- |
 | 2013 to 2016 | Founder and CEO | MovableAds, Seoul. Mobile fan engagement. Featured in [Forbes](https://www.forbes.com/sites/gbcurley/2015/05/25/south-koreas-startup-culture-marred-by-misguided-ambitions/) and [Hankyung](https://www.hankyung.com/article/2015031695271). |
 | 2012 to 2013 | Lead Software Engineer | [Cheil Worldwide](https://www.cheil.com/), Seoul. |
-| 2011 to 2012 | Tech Lead | XenoOne, Seoul. LifeCruz, acquired by [Samsung Group](https://www.samsung.com/) ([Cheil Worldwide](https://www.cheil.com/)). Featured in [Money Today](https://news.mt.co.kr/mtview.php?no=2011120809004573064). |
 | 2010 to 2011 | Cofounder and CTO | Jellycoaster, Seoul. Finger Map and OPTIMAP for [Kia](https://worldwide.kia.com/en). |
 | 2009 to 2010 | Founding Lead Developer | BRCH, Seoul. Modubuy.com. |
 | 1999 to 2007 | Developer and founder | Seoul. Oneday Mall, Jayster Network, Blooming Daisy Production, Suntech Electronics, and K.E.L. |
@@ -221,7 +220,7 @@ Coverage of my work and companies.
 | Feb 2023 | HackerNoon | [Kempus is What Facebook was Intended to Be](https://hackernoon.com/kempus-is-what-facebook-was-intended-to-be). An interview on Kempus, a verified anonymous student community. |
 | May 2015 | Forbes | [South Korea's Startup Culture Marred By Misguided Ambitions](https://www.forbes.com/sites/gbcurley/2015/05/25/south-koreas-startup-culture-marred-by-misguided-ambitions/). Jae on Korea's startup culture, as founder of Movable Ads. |
 | Mar 2015 | Hankyung | [Movable Ads CEO Jae Lee says MLB and NBA owners and advertisers are watching data startups](https://www.hankyung.com/article/2015031695271) (in Korean). An interview on PickRank, a mobile app for live fan reaction at games. |
-| Jan 2012 | Money Today | [The venture man known as an IT evangelist](https://news.mt.co.kr/mtview.php?no=2011120809004573064) (in Korean). An interview on teaching IT in Tunisia, then joining XenoOne. |
+| Jan 2012 | Money Today | [The venture man known as an IT evangelist](https://news.mt.co.kr/mtview.php?no=2011120809004573064) (in Korean). An interview on teaching IT in Tunisia. |
 
 ## Writing and press
 
