@@ -36,6 +36,7 @@
     <a href="#experience">Experience</a> ·
     <a href="#featured-projects">Projects</a> ·
     <a href="#speaking">Speaking</a> ·
+    <a href="#press">Press</a> ·
     <a href="#writing-and-press">Writing</a> ·
     <a href="#contact">Contact</a>
   </p>
@@ -104,7 +105,7 @@ Role, company, and years.
 | Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
 | Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Led delivery of bilingual Umbraco CMS websites for [DWTC Hospitality](https://www.dwtchospitality.com/en/) and [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) at [Dubai World Trade Centre](https://www.dwtc.com/en/). Presales for [allumni.ai](https://www.allumni.ai/). |
 | 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/). [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
-| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus. $3 million seed. Expanded to 33 US universities within 6 months of product launch. |
+| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus. $3 million seed. Expanded to 33 US universities within 6 months of product launch. Featured in [Forbes](https://www.forbes.com/sites/gilpress/2023/02/27/kempus-is-creating-safe-online-communities-for-university-students/) and [TechCrunch](https://techcrunch.com/2023/02/21/kempus-online-student-community/). |
 | Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/). More than 70 developers in 8 countries. |
 | Dec 2018 to Dec 2020 | CTO | [WorldRoamer](https://www.worldroamer.com/). More than 50,000 listings at MVP. |
 | Jul 2017 to Sep 2018 | VP Engineering | [RingMD](https://www.ring.md/). [Ministry of Health](https://www.moh.gov.sg/) sandbox and India's Common Services Centre network. |
@@ -200,6 +201,20 @@ Also [W.Media](https://w.media/), [PCCW Global](https://www.pccwglobalinc.com/),
 Books: [Python Programming Beginner's Cookbook](https://www.amazon.com/Python-Programming-Beginners-Cookbook-Jae-ebook/dp/B0CRBG59DM) and [Baseball Inspired Python Tutorial for Beginners](https://www.amazon.com/dp/B0C24LVVJM). Patent: [KR 10-1281095-0000](https://patents.google.com/patent/KR101281095B1/en).
 
 </details>
+
+## Press
+
+Coverage of Kempus, the verified anonymous student community I cofounded.
+
+<p>
+  <a href="https://www.forbes.com/sites/gilpress/2023/02/27/kempus-is-creating-safe-online-communities-for-university-students/"><img alt="Forbes" src="https://img.shields.io/badge/Forbes-111111?style=flat&logo=forbes&logoColor=white"></a>
+  <a href="https://techcrunch.com/2023/02/21/kempus-online-student-community/"><img alt="TechCrunch" src="https://img.shields.io/badge/TechCrunch-00A562?style=flat&logo=techcrunch&logoColor=white"></a>
+</p>
+
+| Year | Outlet | Article |
+| --- | --- | --- |
+| 2023 | Forbes | [Kempus Is Creating Safe Online Communities For University Students](https://www.forbes.com/sites/gilpress/2023/02/27/kempus-is-creating-safe-online-communities-for-university-students/). A verified anonymous community for university students. |
+| 2023 | TechCrunch | [Kempus wants to be the ultimate app for sharing college hacks](https://techcrunch.com/2023/02/21/kempus-online-student-community/). Students share college tips in a verified community. |
 
 ## Writing and press
 
