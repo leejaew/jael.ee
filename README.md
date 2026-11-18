@@ -36,6 +36,7 @@
     <a href="#experience">Experience</a> ·
     <a href="#featured-projects">Projects</a> ·
     <a href="#speaking">Speaking</a> ·
+    <a href="#presentations">Presentations</a> ·
     <a href="#press">Press</a> ·
     <a href="#writing-and-press">Writing</a> ·
     <a href="#contact">Contact</a>
@@ -167,6 +168,8 @@ DWTC Hospitality covers private events, weddings, corporate and live events, foo
 
 ## Speaking
 
+Public slides are in [Presentations](#presentations).
+
 <p class="photo-row" align="center">
   <img class="shot" src="jae-cybersecurity-panel-2021.jpg" alt="Jae Lee on a cybersecurity leaders panel on Zero Trust Architecture at the Conrad Centennial Singapore in 2021" height="210">
   <img class="shot" src="jae-cloud-datacenter.jpg" alt="Jae Lee speaking on stage at the Singapore Cloud and Datacenter Convention" height="210">
@@ -200,6 +203,24 @@ Also [W.Media](https://w.media/), [PCCW Global](https://www.pccwglobalinc.com/),
 Books: [Python Programming Beginner's Cookbook](https://www.amazon.com/Python-Programming-Beginners-Cookbook-Jae-ebook/dp/B0CRBG59DM) and [Baseball Inspired Python Tutorial for Beginners](https://www.amazon.com/dp/B0C24LVVJM). Patent: [KR 10-1281095-0000](https://patents.google.com/patent/KR101281095B1/en).
 
 </details>
+
+## Presentations
+
+Public slides. See also [Speaking](#speaking).
+
+### [Your first AI agent](https://speakerdeck.com/leejaew/your-first-ai-agent-by-jae-lee)
+
+StartSomething student entrepreneurship program, Singapore University of Technology and Design. November 17, 2026.
+
+A step by step guide from chatting with a model to an agent that can use tools, save files, and do a job.
+
+<p>
+  <a href="https://speakerdeck.com/leejaew/your-first-ai-agent-by-jae-lee"><img src="images/presentations/your-first-ai-agent.jpg" alt="Cover slide of Your first AI agent by Jae Lee" width="480"></a>
+</p>
+
+<p>
+  <a href="https://speakerdeck.com/leejaew/your-first-ai-agent-by-jae-lee"><img alt="Speaker Deck" src="https://img.shields.io/badge/Speaker_Deck-009287?style=flat&logo=speakerdeck&logoColor=white"></a>
+</p>
 
 ## Press
 
