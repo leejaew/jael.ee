@@ -54,7 +54,7 @@ I designed and built <a href="https://gateway.chatforgoodtech.com/">LLM Gateway<
 <tr><td><strong>Scale</strong></td><td>More than 70 developers across 8 countries. <a href="#experience">Experience</a></td></tr>
 <tr><td><strong>Teams</strong></td><td>Tech hubs set up and managed in Bulgaria, Ukraine, Vietnam, India, Malaysia, and Singapore</td></tr>
 <tr><td><strong>Founder</strong></td><td>Multimillion-dollar seed. Expanded to 33 US universities within 6 months of product launch</td></tr>
-<tr><td><strong>Teaching</strong></td><td>More than 80 AI classes since June 2026</td></tr>
+<tr><td><strong>Teaching</strong></td><td>More than 100 AI lessons since June 2026</td></tr>
 <tr><td><strong>Products</strong></td><td><a href="#featured-projects">Project list</a></td></tr>
 </tbody>
 </table>
@@ -102,7 +102,7 @@ Role, company, and years.
 | Years | Role | Organization |
 | --- | --- | --- |
 | Jul 2026 to present | Lead AI solution architect | AI platform company. Led new platform design, development, and launch, reaching recurring revenue within the first 90 days of project start. |
-| Jun 2026 to present | AI instructor | More than 80 classes for working professionals. |
+| Jun 2026 to present | AI instructor | More than 100 lessons for business owners and professionals across industries, setting up agentic and autonomous workflows and the first steps toward a self driving organization. |
 | Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
 | Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Led delivery of bilingual Umbraco CMS websites for [DWTC Hospitality](https://www.dwtchospitality.com/en/) and [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) at [Dubai World Trade Centre](https://www.dwtc.com/en/). Presales for [allumni.ai](https://www.allumni.ai/). |
 | 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/). [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
@@ -134,7 +134,7 @@ Name, what it is, and the stack.
 | --- | --- | --- |
 | [Memtoon](https://memtoon.com/) | Revenue generating SaaS. A week becomes a manga webtoon. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
 | [JustRelay](https://justrelay-gcp-frontend.vercel.app/) | Public demo. AI home services concierge for expats in Korea. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
-| [api.jael.ee](https://api.jael.ee/) | More than 150 public data APIs and more than 50,000 records across 9 markets. | [![API](https://img.shields.io/badge/API-0A66C2?style=flat)](https://api.jael.ee/) |
+| [api.jael.ee](https://api.jael.ee/) | More than 150 public data APIs and more than 350,000 records across 9 markets. | [![API](https://img.shields.io/badge/API-0A66C2?style=flat)](https://api.jael.ee/) |
 | Odoo MCP | Search and update Odoo through 17 tools. Read only by default. No public repo. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) |
 | [VisitKorea MCP](https://github.com/leejaew/visitkorea-mcp) | Open source Korea Tourism Organization data for all 17 provinces and major cities. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) |
 | [LLM Gateway](https://gateway.chatforgoodtech.com/) | Multi model inference for an AI platform company, with Stripe billing. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
