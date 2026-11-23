@@ -62,7 +62,7 @@ I designed and built <a href="https://gateway.chatforgoodtech.com/">LLM Gateway<
 
 **Government and public sector**
 
-- Launched Singapore's first approved telehealth platform under the [MOH](https://www.moh.gov.sg/) Sandbox, at [RingMD](https://www.ring.md/).
+- Launched Singapore's first approved telehealth platform under the [MOH Sandbox](https://www.moh.gov.sg/newsroom/moh-launches-first-regulatory-sandbox-to-support-development-of-telemedicine/), at [RingMD](https://www.ring.md/).
 - Launched brands and digital experiences for the [Dubai World Trade Centre](https://www.dwtc.com/en/) free zone, including [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) and [DWTC Hospitality](https://www.dwtchospitality.com/en/), and built the [VARA](https://www.vara.ae/) online directory and digital onboarding for new and existing license holders and operators, at [MBLM](https://mblm.com/).
 - Created startup accelerator programs for [KOTRA](https://www.kotra.or.kr/) (Korea Trade-Investment Promotion Agency), bridging Korea and the US.
 - Led the US side of Geeks from Gangnam, a brand experience event that hosted Korean startups backed by [D.CAMP](https://dcamp.kr/).
