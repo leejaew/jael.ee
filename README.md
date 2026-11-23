@@ -288,7 +288,7 @@ I advise founders through [Founder Institute](https://fi.co/) (US and Singapore)
 
 | Institution | Program |
 | --- | --- |
-| [Sungkyunkwan University](https://www.skku.edu/eng/) | MBA program, coursework completed |
+| [Sungkyunkwan University](https://www.skku.edu/eng/) | MBA program |
 | [University of Illinois Urbana-Champaign](https://illinois.edu/) | Artificial intelligence program |
 | [Cornell University School of Industrial and Labor Relations](https://www.ilr.cornell.edu/) | Project management program |
 
