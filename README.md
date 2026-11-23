@@ -39,25 +39,32 @@
     <a href="#presentations">Presentations</a> ·
     <a href="#press">Press</a> ·
     <a href="#writing-and-press">Writing</a> ·
+    <a href="#education">Education</a> ·
     <a href="#contact">Contact</a>
   </p>
 </div>
 
 ## At a glance
 
-I am an engineering executive who still ships. I set AI strategy, then architect and build the systems myself. I have been a cofounder and CEO, CTO, and VP of Engineering, delivering for enterprise and government clients in the GCC, Southeast Asia, Korea, India, and the US.
+I am a serial entrepreneur and engineering executive who still ships. I set AI strategy, then architect and build the systems myself. I have been a cofounder and CEO, CTO, and VP of Engineering, delivering for enterprise and government clients in the GCC, Southeast Asia, Korea, India, and the US. I have worked with governments and regulated free zones across Asia and the Middle East.
 
 I designed and built <a href="https://gateway.chatforgoodtech.com/">LLM Gateway</a>, a multi model inference platform with credit accounting and auditable billing, and <a href="https://orchestrator.chatforgoodtech.com/">Agent Orchestrator</a> for chat and browser tasks on that platform. AI projects stall on cost, security, data, or people. I design around those points.
 
 <table>
 <tbody>
 <tr><td><strong>Scale</strong></td><td>More than 70 developers across 8 countries. <a href="#experience">Experience</a></td></tr>
-<tr><td><strong>Teams</strong></td><td>Tech hubs set up and managed in Bulgaria, Ukraine, Vietnam, India, Malaysia, and Singapore</td></tr>
+<tr><td><strong>Teams</strong></td><td>Tech hubs set up and managed in Bulgaria, Ukraine, Vietnam, India, Malaysia, and Singapore, plus offshore partners</td></tr>
 <tr><td><strong>Founder</strong></td><td>Multimillion-dollar seed. Expanded to 33 US universities within 6 months of product launch</td></tr>
 <tr><td><strong>Teaching</strong></td><td>More than 100 AI lessons since June 2026</td></tr>
 <tr><td><strong>Products</strong></td><td><a href="#featured-projects">Project list</a></td></tr>
 </tbody>
 </table>
+
+**Government and public sector**
+
+- Launched Singapore's first approved telehealth platform under the [MOH](https://www.moh.gov.sg/) Sandbox, at [RingMD](https://www.ring.md/).
+- Launched brands and digital experiences for the [Dubai World Trade Centre](https://www.dwtc.com/en/) free zone, including [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) and [DWTC Hospitality](https://www.dwtchospitality.com/en/), and built the [VARA](https://www.vara.ae/) online directory and digital onboarding for new and existing license holders and operators, at [MBLM](https://mblm.com/).
+- Created startup accelerator programs for the Korean government's [K-Startup](https://www.k-startup.go.kr/), bridging Korea and the US.
 
 ## Work with me
 
@@ -102,7 +109,7 @@ Role, company, and years.
 | Years | Role | Organization |
 | --- | --- | --- |
 | Jul 2026 to present | Lead AI solution architect | AI platform company. Led new platform design, development, and launch, reaching recurring revenue within the first 90 days of project start. |
-| Jun 2026 to present | AI instructor | More than 100 lessons for business owners and professionals across industries, setting up agentic and autonomous workflows and the first steps toward a self driving organization. |
+| Jun 2026 to present | AI instructor | More than 100 lessons for business owners and professionals across industries, setting up agentic and autonomous workflows and the first steps toward a self driving organization. Learners in the US, UK, Turkey, Saudi Arabia, Bulgaria, China, Korea, and Switzerland work from their own day to day work. |
 | Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
 | Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Led delivery of bilingual Umbraco CMS websites for [DWTC Hospitality](https://www.dwtchospitality.com/en/) and [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) at [Dubai World Trade Centre](https://www.dwtc.com/en/). Presales for [allumni.ai](https://www.allumni.ai/). |
 | 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/). [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
@@ -120,6 +127,7 @@ Role, company, and years.
 | --- | --- | --- |
 | 2013 to 2016 | Founder and CEO | MovableAds, Seoul. Mobile fan engagement. Featured in [Forbes](https://www.forbes.com/sites/gbcurley/2015/05/25/south-koreas-startup-culture-marred-by-misguided-ambitions/) and [Hankyung](https://www.hankyung.com/article/2015031695271). |
 | 2012 to 2013 | Lead Software Engineer | [Cheil Worldwide](https://www.cheil.com/), Seoul. |
+| 2011 to 2012 | Tech lead | Joined a Samsung Group company, [Cheil Worldwide](https://www.cheil.com/), through an acqui-hire, Seoul. |
 | 2010 to 2011 | Cofounder and CTO | Jellycoaster, Seoul. Finger Map and OPTIMAP for [Kia](https://worldwide.kia.com/en). |
 | 2009 to 2010 | Founding Lead Developer | BRCH, Seoul. Modubuy.com. |
 | 1999 to 2007 | Developer and founder | Seoul. Oneday Mall, Jayster Network, Blooming Daisy Production, Suntech Electronics, and K.E.L. |
@@ -134,7 +142,7 @@ Name, what it is, and the stack.
 | --- | --- | --- |
 | [Memtoon](https://memtoon.com/) | Revenue generating SaaS. A week becomes a manga webtoon. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
 | [JustRelay](https://justrelay-gcp-frontend.vercel.app/) | Public demo. AI home services concierge for expats in Korea. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
-| [api.jael.ee](https://api.jael.ee/) | More than 150 public data APIs and more than 350,000 records across 9 markets. | [![API](https://img.shields.io/badge/API-0A66C2?style=flat)](https://api.jael.ee/) |
+| [api.jael.ee](https://api.jael.ee/) | Open government data. More than 150 public data APIs and more than 350,000 records, drawn from government and industry sources across several countries. | [![API](https://img.shields.io/badge/API-0A66C2?style=flat)](https://api.jael.ee/) |
 | Odoo MCP | Search and update Odoo through 17 tools. Read only by default. No public repo. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) |
 | [VisitKorea MCP](https://github.com/leejaew/visitkorea-mcp) | Open source Korea Tourism Organization data for all 17 provinces and major cities. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) |
 | [LLM Gateway](https://gateway.chatforgoodtech.com/) | Multi model inference for an AI platform company, with Stripe billing. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
@@ -273,7 +281,15 @@ Forbes Technology Council notes, and two beginner Python books.
 
 ## Mentoring
 
-I mentor at [Founder Institute](https://fi.co/), [Wavesparks](https://wavesparks.co/), [Tech Ranch](https://techranchaustin.com/), [ACE.SG](https://www.ace.sg/), [Ignyte](https://www.ignyte.ae/), and [Hubble](https://hubble.social/jaewanglee).
+I advise founders through [Founder Institute](https://fi.co/) (US and Singapore), [Ignyte](https://www.ignyte.ae/) (UAE), [Wavesparks](https://wavesparks.co/) (Singapore), [Tech Ranch](https://techranchaustin.com/) (US), and [ACE.SG](https://www.ace.sg/), and through [Hubble](https://hubble.social/jaewanglee). My focus is product strategy, technical architecture, go to market, and fundraising.
+
+## Education
+
+| Institution | Program |
+| --- | --- |
+| [Sungkyunkwan University](https://www.skku.edu/eng/) | MBA program, coursework completed |
+| [University of Illinois Urbana-Champaign](https://illinois.edu/) | Artificial intelligence program |
+| [Cornell University School of Industrial and Labor Relations](https://www.ilr.cornell.edu/) | Project management program |
 
 ## Contact
 
