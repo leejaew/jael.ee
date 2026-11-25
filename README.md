@@ -156,11 +156,11 @@ What each project does for the people who use it.
 
 ### [Memdoor](https://github.com/guregodevo/memdoor)
 
-Two merged contributions to Memdoor, an open source coding agent. The agent now asks for approval before a delegated workflow starts or resumes, and it stops reviewer reruns when the user presses Stop, so people stay in control of what the agent does.
+Contributor to Memdoor, an open source coding agent. The agent asks for approval before a delegated workflow starts or resumes, and it stops reviewer reruns when the user presses Stop, so people stay in control of what the agent does.
 
 ### [agent-browser](https://github.com/vercel-labs/agent-browser)
 
-A merged contribution to Vercel Labs' agent-browser, a command line tool that lets AI agents drive a web browser. The change makes session capture fail safe, so an incomplete capture never overwrites the last good autosave and users don't lose their saved browser state.
+Contributor to Vercel Labs' agent-browser, a command line tool that lets AI agents drive a web browser. Session capture is fail safe, so an incomplete capture never overwrites the last good autosave and users don't lose their saved browser state.
 
 ### [Grounded RAG](https://rag.jael.ee)
 
