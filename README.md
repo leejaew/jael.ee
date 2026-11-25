@@ -166,7 +166,7 @@ A merged contribution to Vercel Labs' agent-browser, a command line tool that le
 
 Helps people and teams find answers in their own documents and see exactly where each answer came from. Users set up private workspaces and document collections, invite members, and check the supporting passages and source citations behind every answer. Saved answers stay readable even after a source document is deleted. Users can save questions, give feedback, and bring their own account from OpenAI, Anthropic, OpenRouter, or any OpenAI compatible service. Workspaces are kept separate, roles and signup approval control access, and provider keys are stored encrypted.
 
-### [api.jael.ee](https://api.jael.ee/)
+### [api.jael.ee](https://github.com/leejaew/api.jael.ee)
 
 A catalog of more than 150 public data APIs with more than 350,000 records across Southeast Asia, East Asia, the Middle East, Oceania, Europe, and North America. Much of this government and industry data is published only as spreadsheets, PDFs, or web pages. api.jael.ee turns it into clean JSON for developers, researchers, and AI agents, covering hospitals, aged care homes, universities, MRT exits, childcare providers, and more. Every endpoint follows the same simple query rules, so one pattern works in every region. When a query fails, the error names the missing or blocked parameter so an agent can fix its own call. Names in Chinese and Arabic help assistants serve local users, and every source is checked for license and commercial use before it goes live.
 
