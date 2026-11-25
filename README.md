@@ -12,7 +12,6 @@
 | status    open to consulting | advisory | projects | senior roles                   |
 | contact   hello@jael.ee                                                             |
 |                                                                                     |
-| > type /help to see how we can work together                                        |
 +-------------------------------------------------------------------------------------+
 ```
 
@@ -109,29 +108,29 @@ Role, company, and years.
 
 | Years | Role | Organization |
 | --- | --- | --- |
-| Jul 2026 to present | Lead AI solution architect | AI platform company. Led new platform design, development, and launch, reaching recurring revenue within the first 90 days of project start. |
-| Jun 2026 to present | AI instructor | More than 100 lessons for business owners and professionals across industries, setting up agentic and autonomous workflows and the first steps toward a self driving organization. Learners in the US, UK, Turkey, Saudi Arabia, Bulgaria, China, Korea, and Switzerland work from their own day to day work. |
-| Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
-| Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Led delivery of bilingual Umbraco CMS websites for [DWTC Hospitality](https://www.dwtchospitality.com/en/) and [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) at [Dubai World Trade Centre](https://www.dwtc.com/en/). Presales for [allumni.ai](https://www.allumni.ai/). |
-| 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/). [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
-| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus. $3 million seed. Expanded to 33 US universities within 6 months of product launch. Featured in [Forbes](https://www.forbes.com/sites/gilpress/2023/02/27/kempus-is-creating-safe-online-communities-for-university-students/), [TechCrunch](https://techcrunch.com/2023/02/21/kempus-online-student-community/), and [HackerNoon](https://hackernoon.com/kempus-is-what-facebook-was-intended-to-be). |
-| Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/). More than 70 developers in 8 countries. |
-| Dec 2018 to Dec 2020 | CTO | [WorldRoamer](https://www.worldroamer.com/). More than 50,000 listings at MVP. |
-| Jul 2017 to Sep 2018 | VP Engineering | [RingMD](https://www.ring.md/). [Ministry of Health](https://www.moh.gov.sg/) sandbox and India's Common Services Centre network. |
-| Jun 2016 to Jun 2017 | Director, Creative Technology | GROUP IDD, Seoul. [Samsung](https://www.samsung.com/), [Hyundai](https://www.hyundai.com/worldwide/en), [Kia](https://worldwide.kia.com/en), [L'Oréal](https://www.loreal.com/en/), [3M](https://www.3m.com/), [Burberry](https://www.burberry.com/), [Korea Tourism Organization](https://knto.or.kr/). |
-| 2007 to 2009 | University lecturer | [University of Jendouba](https://uj.rnu.tn/), Béja, Tunisia. |
+| Jul 2026 to present | Lead AI solution architect | AI platform company, independent contractor. Applied AI products and services. Launched a new platform that reached recurring revenue within 90 days. |
+| Jun 2026 to present | AI instructor | Self employed, remote. AI skills and agentic workflows for business owners and professionals. More than 100 lessons for learners in eight countries. |
+| Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Early stage venture capital firm. Cofounded FMInsight for facility management across the GCC. |
+| Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Brand agency. Led digital delivery for [Dubai World Trade Centre](https://www.dwtc.com/en/) and presales for [allumni.ai](https://www.allumni.ai/). |
+| 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/), Singapore. [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
+| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus, Singapore. Online community for university students. Expanded to 33 US universities within 6 months of launch. |
+| Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/), Singapore. Logistics software. Led more than 70 developers in 8 countries. |
+| Dec 2018 to Dec 2020 | CTO | [WorldRoamer](https://www.worldroamer.com/), Singapore. Travel tech. More than 50,000 listings at MVP. |
+| Jul 2017 to Sep 2018 | VP Engineering | [RingMD](https://www.ring.md/), Singapore. Telemedicine. Launched under the [Ministry of Health](https://www.moh.gov.sg/) telemedicine sandbox. |
+| Jun 2016 to Jun 2017 | Director, Creative Technology | GROUP IDD, Seoul. Creative technology agency. Clients included [Samsung](https://www.samsung.com/), [Hyundai](https://www.hyundai.com/worldwide/en), [Kia](https://worldwide.kia.com/en), and [L'Oréal](https://www.loreal.com/en/). |
+| 2007 to 2009 | University lecturer | [University of Jendouba](https://uj.rnu.tn/), Béja, Tunisia. Public university. |
 
 <details markdown="1">
 <summary>Earlier roles</summary>
 
 | Years | Role | Organization |
 | --- | --- | --- |
-| 2013 to 2016 | Founder and CEO | MovableAds, Seoul. Mobile fan engagement. Featured in [Forbes](https://www.forbes.com/sites/gbcurley/2015/05/25/south-koreas-startup-culture-marred-by-misguided-ambitions/) and [Hankyung](https://www.hankyung.com/article/2015031695271). |
-| 2012 to 2013 | Lead Software Engineer | [Cheil Worldwide](https://www.cheil.com/), Seoul. |
-| 2011 to 2012 | Tech lead | Joined a Samsung Group company, [Cheil Worldwide](https://www.cheil.com/), through an acqui-hire, Seoul. |
-| 2010 to 2011 | Cofounder and CTO | Jellycoaster, Seoul. Finger Map and OPTIMAP for [Kia](https://worldwide.kia.com/en). |
-| 2009 to 2010 | Founding Lead Developer | BRCH, Seoul. Modubuy.com. |
-| 1999 to 2007 | Developer and founder | Seoul. Oneday Mall, Jayster Network, Blooming Daisy Production, Suntech Electronics, and K.E.L. |
+| 2013 to 2016 | Founder and CEO | MovableAds, Seoul. Sports technology startup for mobile fan engagement. |
+| 2012 to 2013 | Lead Software Engineer | [Cheil Worldwide](https://www.cheil.com/), Seoul. Samsung Group marketing company. Samsung digital programs. |
+| 2011 to 2012 | Tech lead | Startup, Seoul. Acquired by [Cheil Worldwide](https://www.cheil.com/) of Samsung Group in an acquihire. |
+| 2010 to 2011 | Cofounder and CTO | Jellycoaster, Seoul. Tech startup. Finger Map and OPTIMAP for [Kia](https://worldwide.kia.com/en). |
+| 2009 to 2010 | Founding Lead Developer | BRCH, Seoul. Cross border commerce. Built Modubuy.com. |
+| 1999 to 2007 | Developer and founder | Several companies, Seoul. Web, ecommerce, and digital production. |
 
 </details>
 
@@ -139,9 +138,28 @@ Role, company, and years.
 
 What each project does for the people who use it.
 
+### [Memdoor](https://github.com/guregodevo/memdoor)
+
+Two merged contributions to Memdoor, an open source coding agent. The agent now asks for approval before a delegated workflow starts or resumes, and it stops reviewer reruns when the user presses Stop, so people stay in control of what the agent does.
+
+### [agent-browser](https://github.com/vercel-labs/agent-browser/pull/2746)
+
+A merged contribution to Vercel Labs' agent-browser, a command line tool that lets AI agents drive a web browser. The change makes session capture fail safe, so an incomplete capture never overwrites the last good autosave and users don't lose their saved browser state.
+
+### Grounded RAG
+
+Helps people and teams find answers in their own documents and see exactly where each answer came from. Users set up private workspaces and document collections, invite members, and check the supporting passages and source citations behind every answer. Saved answers stay readable even after a source document is deleted. Users can save questions, give feedback, and bring their own account from OpenAI, Anthropic, OpenRouter, or any OpenAI compatible service. Workspaces are kept separate, roles and signup approval control access, and provider keys are stored encrypted.
+
 ### [api.jael.ee](https://api.jael.ee/)
 
 A catalog of more than 150 public data APIs with more than 350,000 records across Southeast Asia, East Asia, the Middle East, Oceania, Europe, and North America. Much of this government and industry data is published only as spreadsheets, PDFs, or web pages. api.jael.ee turns it into clean JSON for developers, researchers, and AI agents, covering hospitals, aged care homes, universities, MRT exits, childcare providers, and more. Every endpoint follows the same simple query rules, so one pattern works in every region. When a query fails, the error names the missing or blocked parameter so an agent can fix its own call. Names in Chinese and Arabic help assistants serve local users, and every source is checked for license and commercial use before it goes live.
+
+### [Memtoon](https://memtoon.com/)
+
+Turns a user's week into a personalized manga webtoon with no drawing or writing needed. Users connect Google Calendar or upload a photo, and Memtoon writes a story from their real events and draws up to 10 panels. A selfie makes the user the main character, drawn the same way in every panel, and the selfie is deleted after use. Generation keeps running if the browser closes, and users can choose to share finished webtoons in a public gallery. Memtoon was named Judge's Favorite at the Replit Agent 4 Buildathon.
+
+<details markdown="1">
+<summary>More projects</summary>
 
 ### [LLM Gateway](https://gateway.chatforgoodtech.com/)
 
@@ -150,14 +168,6 @@ One place for developers, teams, and AI agents to reach many models through a si
 ### [Agent Orchestrator](https://orchestrator.chatforgoodtech.com/)
 
 An AI chat and browser task app for writing, research, and everyday work across many models. Users sign in with their LLM Gateway account and start right away with their existing subscription or credits, or bring their own model endpoint. The assistant can search the web, read pages, click, and type in a real browser. Long answers keep going past a model's output limit and are saved as one reply. Users pick their search engine, browser automation, default model, and standing instructions, and their chats are saved, exportable to Markdown, and protected by per user encryption.
-
-### Grounded RAG
-
-Helps people and teams find answers in their own documents and see exactly where each answer came from. Users set up private workspaces and document collections, invite members, and check the supporting passages and source citations behind every answer. Saved answers stay readable even after a source document is deleted. Users can save questions, give feedback, and bring their own account from OpenAI, Anthropic, OpenRouter, or any OpenAI compatible service. Workspaces are kept separate, roles and signup approval control access, and provider keys are stored encrypted.
-
-### [Memtoon](https://memtoon.com/)
-
-Turns a user's week into a personalized manga webtoon with no drawing or writing needed. Users connect Google Calendar or upload a photo, and Memtoon writes a story from their real events and draws up to 10 panels. A selfie makes the user the main character, drawn the same way in every panel, and the selfie is deleted after use. Generation keeps running if the browser closes, and users can choose to share finished webtoons in a public gallery. Memtoon was named Judge's Favorite at the Replit Agent 4 Buildathon.
 
 ### [JustRelay](https://justrelay-gcp-frontend.vercel.app/)
 
@@ -190,17 +200,6 @@ The bilingual corporate website for Dubai World Trade Centre's hospitality divis
 ### [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en)
 
 The bilingual corporate website for Dubai Exhibition Centre, presenting it as a global venue for exhibitions, conferences, and large events. Visitors, exhibitors, and organizers each get a clear path to what they need, from venue services and hospitality to advertising, sustainability, and destination information. The content team can update the site themselves as events change.
-
-### [agent-browser](https://github.com/vercel-labs/agent-browser/pull/2746)
-
-A merged contribution to Vercel Labs' agent-browser, a command line tool that lets AI agents drive a web browser. The change makes session capture fail safe, so an incomplete capture never overwrites the last good autosave and users don't lose their saved browser state.
-
-### [Memdoor](https://github.com/guregodevo/memdoor)
-
-Two merged contributions to Memdoor, an open source coding agent. The agent now asks for approval before a delegated workflow starts or resumes, and it stops reviewer reruns when the user presses Stop, so people stay in control of what the agent does.
-
-<details markdown="1">
-<summary>More projects</summary>
 
 | Project | What it is | Stack |
 | --- | --- | --- |
