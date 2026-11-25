@@ -158,11 +158,11 @@ What each project does for the people who use it.
 
 Two merged contributions to Memdoor, an open source coding agent. The agent now asks for approval before a delegated workflow starts or resumes, and it stops reviewer reruns when the user presses Stop, so people stay in control of what the agent does.
 
-### [agent-browser](https://github.com/vercel-labs/agent-browser/pull/2746)
+### [agent-browser](https://github.com/vercel-labs/agent-browser)
 
 A merged contribution to Vercel Labs' agent-browser, a command line tool that lets AI agents drive a web browser. The change makes session capture fail safe, so an incomplete capture never overwrites the last good autosave and users don't lose their saved browser state.
 
-### Grounded RAG
+### [Grounded RAG](https://rag.jael.ee)
 
 Helps people and teams find answers in their own documents and see exactly where each answer came from. Users set up private workspaces and document collections, invite members, and check the supporting passages and source citations behind every answer. Saved answers stay readable even after a source document is deleted. Users can save questions, give feedback, and bring their own account from OpenAI, Anthropic, OpenRouter, or any OpenAI compatible service. Workspaces are kept separate, roles and signup approval control access, and provider keys are stored encrypted.
 
@@ -174,9 +174,6 @@ A catalog of more than 150 public data APIs with more than 350,000 records acros
 
 Turns a user's week into a personalized manga webtoon with no drawing or writing needed. Users connect Google Calendar or upload a photo, and Memtoon writes a story from their real events and draws up to 10 panels. A selfie makes the user the main character, drawn the same way in every panel, and the selfie is deleted after use. Generation keeps running if the browser closes, and users can choose to share finished webtoons in a public gallery. Memtoon was named Judge's Favorite at the Replit Agent 4 Buildathon.
 
-<details markdown="1">
-<summary>More projects</summary>
-
 ### [LLM Gateway](https://gateway.chatforgoodtech.com/)
 
 One place for developers, teams, and AI agents to reach many models through a single OpenAI compatible key. Users manage subscriptions and credits, see their usage, and get streaming chat, image input, voice transcription, and web search without wiring up each provider on their own. Guided installers set up popular coding agents in a few steps. Shared balances stay accurate across apps, provider health checks catch failing models early, and revocable access grants and encrypted credentials keep accounts under control.
@@ -184,6 +181,9 @@ One place for developers, teams, and AI agents to reach many models through a si
 ### [Agent Orchestrator](https://orchestrator.chatforgoodtech.com/)
 
 An AI chat and browser task app for writing, research, and everyday work across many models. Users sign in with their LLM Gateway account and start right away with their existing subscription or credits, or bring their own model endpoint. The assistant can search the web, read pages, click, and type in a real browser. Long answers keep going past a model's output limit and are saved as one reply. Users pick their search engine, browser automation, default model, and standing instructions, and their chats are saved, exportable to Markdown, and protected by per user encryption.
+
+<details markdown="1">
+<summary>More projects</summary>
 
 ### [JustRelay](https://justrelay-gcp-frontend.vercel.app/)
 
@@ -197,15 +197,15 @@ Lets AI assistants work with Odoo ERP through 17 tools for searching records, lo
 
 Gives AI assistants direct access to the Korea Tourism Organization's official English tourism data for all 17 provinces of South Korea. Any compatible assistant can find attractions, cultural sites, restaurants, places to stay, shopping, leisure, and festivals by area, by keyword, or by distance from a GPS point. It can look up festivals by date and region and pull venue details such as opening hours, admission fees, closing days, parking, room types, menus, and photos. Open source under the MIT license.
 
-### Guardian Watch
+### [Guardian Watch](https://guardian.chatforgoodtech.com)
 
 An early warning platform for child protection in Singapore. Community members report concerns through Telegram, and officers see them in a secure dashboard. AI sorts incoming reports, a separate rule based engine scores risk for areas and schools, and people review every result before anyone acts. No public page.
 
-### BFG Stride
+### [BFG Stride](https://stride.chatforgoodtech.com)
 
 A prototype for BearyFun Gym that helps staff run student operations and keep families engaged. It handles class scheduling and attendance, flags students who may drop out, and drafts replies to parents that staff review before sending. Permissions by role and by center, plus audit logs, keep data access in check. No public page.
 
-### E-Bridge Inquiry Journal
+### [E-Bridge Inquiry Journal](https://journal.chatforgoodtech.com)
 
 A prototype for E-Bridge Pre-School that guides teachers through practitioner inquiry, from shaping a structured research question to gathering evidence, writing reflections, and producing reports, with review queues for school leaders. AI stays off until it is turned on on purpose and data handling is approved, and the prototype uses synthetic data only. No public page.
 
@@ -217,16 +217,9 @@ The bilingual corporate website for Dubai World Trade Centre's hospitality divis
 
 The bilingual corporate website for Dubai Exhibition Centre, presenting it as a global venue for exhibitions, conferences, and large events. Visitors, exhibitors, and organizers each get a clear path to what they need, from venue services and hospitality to advertising, sustainability, and destination information. The content team can update the site themselves as events change.
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [VisitKorea Wellness MCP](https://github.com/leejaew/visitkorea-wellnesstourism-mcp) | Wellness tourism search. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) |
-| [VisitKorea Medical MCP](https://github.com/leejaew/visitkorea-medicaltourism-mcp) | Certified medical tourism facilities in South Korea. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) |
-| [Singapore MRT Exits MCP](https://github.com/leejaew/sg-mrt-exits-mcp) | 15 tools for Singapore MRT station exits. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) |
-| Agent Memory Dump | Shared agent memory with pgvector search. No public repo. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat)](https://github.com/pgvector/pgvector) |
-| SourceMind | File intelligence and RAG with citations. No public repo. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
-| [Ripplet.me](https://ripplet.me/) | Open source discussion platform. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
-| [Secure Chat](https://github.com/leejaew/secure-chat) | Open source starter for encrypted group chat. | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
-| Chat4Physio | Physio translation proof of concept. No raw audio is stored. No public page. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
+### [Chat4Physio](https://physio.chatforgoodtech.com)
+
+Physio translation proof of concept. No raw audio is stored.
 
 </details>
 
