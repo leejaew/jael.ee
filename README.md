@@ -139,9 +139,28 @@ Role, company, and years.
 
 What each project does for the people who use it.
 
+### [Memdoor](https://github.com/guregodevo/memdoor)
+
+Two merged contributions to Memdoor, an open source coding agent. The agent now asks for approval before a delegated workflow starts or resumes, and it stops reviewer reruns when the user presses Stop, so people stay in control of what the agent does.
+
+### [agent-browser](https://github.com/vercel-labs/agent-browser/pull/2746)
+
+A merged contribution to Vercel Labs' agent-browser, a command line tool that lets AI agents drive a web browser. The change makes session capture fail safe, so an incomplete capture never overwrites the last good autosave and users don't lose their saved browser state.
+
+### Grounded RAG
+
+Helps people and teams find answers in their own documents and see exactly where each answer came from. Users set up private workspaces and document collections, invite members, and check the supporting passages and source citations behind every answer. Saved answers stay readable even after a source document is deleted. Users can save questions, give feedback, and bring their own account from OpenAI, Anthropic, OpenRouter, or any OpenAI compatible service. Workspaces are kept separate, roles and signup approval control access, and provider keys are stored encrypted.
+
 ### [api.jael.ee](https://api.jael.ee/)
 
 A catalog of more than 150 public data APIs with more than 350,000 records across Southeast Asia, East Asia, the Middle East, Oceania, Europe, and North America. Much of this government and industry data is published only as spreadsheets, PDFs, or web pages. api.jael.ee turns it into clean JSON for developers, researchers, and AI agents, covering hospitals, aged care homes, universities, MRT exits, childcare providers, and more. Every endpoint follows the same simple query rules, so one pattern works in every region. When a query fails, the error names the missing or blocked parameter so an agent can fix its own call. Names in Chinese and Arabic help assistants serve local users, and every source is checked for license and commercial use before it goes live.
+
+### [Memtoon](https://memtoon.com/)
+
+Turns a user's week into a personalized manga webtoon with no drawing or writing needed. Users connect Google Calendar or upload a photo, and Memtoon writes a story from their real events and draws up to 10 panels. A selfie makes the user the main character, drawn the same way in every panel, and the selfie is deleted after use. Generation keeps running if the browser closes, and users can choose to share finished webtoons in a public gallery. Memtoon was named Judge's Favorite at the Replit Agent 4 Buildathon.
+
+<details markdown="1">
+<summary>More projects</summary>
 
 ### [LLM Gateway](https://gateway.chatforgoodtech.com/)
 
@@ -150,14 +169,6 @@ One place for developers, teams, and AI agents to reach many models through a si
 ### [Agent Orchestrator](https://orchestrator.chatforgoodtech.com/)
 
 An AI chat and browser task app for writing, research, and everyday work across many models. Users sign in with their LLM Gateway account and start right away with their existing subscription or credits, or bring their own model endpoint. The assistant can search the web, read pages, click, and type in a real browser. Long answers keep going past a model's output limit and are saved as one reply. Users pick their search engine, browser automation, default model, and standing instructions, and their chats are saved, exportable to Markdown, and protected by per user encryption.
-
-### Grounded RAG
-
-Helps people and teams find answers in their own documents and see exactly where each answer came from. Users set up private workspaces and document collections, invite members, and check the supporting passages and source citations behind every answer. Saved answers stay readable even after a source document is deleted. Users can save questions, give feedback, and bring their own account from OpenAI, Anthropic, OpenRouter, or any OpenAI compatible service. Workspaces are kept separate, roles and signup approval control access, and provider keys are stored encrypted.
-
-### [Memtoon](https://memtoon.com/)
-
-Turns a user's week into a personalized manga webtoon with no drawing or writing needed. Users connect Google Calendar or upload a photo, and Memtoon writes a story from their real events and draws up to 10 panels. A selfie makes the user the main character, drawn the same way in every panel, and the selfie is deleted after use. Generation keeps running if the browser closes, and users can choose to share finished webtoons in a public gallery. Memtoon was named Judge's Favorite at the Replit Agent 4 Buildathon.
 
 ### [JustRelay](https://justrelay-gcp-frontend.vercel.app/)
 
@@ -190,17 +201,6 @@ The bilingual corporate website for Dubai World Trade Centre's hospitality divis
 ### [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en)
 
 The bilingual corporate website for Dubai Exhibition Centre, presenting it as a global venue for exhibitions, conferences, and large events. Visitors, exhibitors, and organizers each get a clear path to what they need, from venue services and hospitality to advertising, sustainability, and destination information. The content team can update the site themselves as events change.
-
-### [agent-browser](https://github.com/vercel-labs/agent-browser/pull/2746)
-
-A merged contribution to Vercel Labs' agent-browser, a command line tool that lets AI agents drive a web browser. The change makes session capture fail safe, so an incomplete capture never overwrites the last good autosave and users don't lose their saved browser state.
-
-### [Memdoor](https://github.com/guregodevo/memdoor)
-
-Two merged contributions to Memdoor, an open source coding agent. The agent now asks for approval before a delegated workflow starts or resumes, and it stops reviewer reruns when the user presses Stop, so people stay in control of what the agent does.
-
-<details markdown="1">
-<summary>More projects</summary>
 
 | Project | What it is | Stack |
 | --- | --- | --- |
