@@ -12,7 +12,6 @@
 | status    open to consulting | advisory | projects | senior roles                   |
 | contact   hello@jael.ee                                                             |
 |                                                                                     |
-| > type /help to see how we can work together                                        |
 +-------------------------------------------------------------------------------------+
 ```
 
