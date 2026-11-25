@@ -108,29 +108,29 @@ Role, company, and years.
 
 | Years | Role | Organization |
 | --- | --- | --- |
-| Jul 2026 to present | Lead AI solution architect | AI platform company. Led new platform design, development, and launch, reaching recurring revenue within the first 90 days of project start. |
-| Jun 2026 to present | AI instructor | More than 100 lessons for business owners and professionals across industries, setting up agentic and autonomous workflows and the first steps toward a self driving organization. Learners in the US, UK, Turkey, Saudi Arabia, Bulgaria, China, Korea, and Switzerland work from their own day to day work. |
-| Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Cofounded FMInsight during the residency for facility management across the GCC. |
-| Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Led delivery of bilingual Umbraco CMS websites for [DWTC Hospitality](https://www.dwtchospitality.com/en/) and [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) at [Dubai World Trade Centre](https://www.dwtc.com/en/). Presales for [allumni.ai](https://www.allumni.ai/). |
-| 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/). [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
-| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus. $3 million seed. Expanded to 33 US universities within 6 months of product launch. Featured in [Forbes](https://www.forbes.com/sites/gilpress/2023/02/27/kempus-is-creating-safe-online-communities-for-university-students/), [TechCrunch](https://techcrunch.com/2023/02/21/kempus-online-student-community/), and [HackerNoon](https://hackernoon.com/kempus-is-what-facebook-was-intended-to-be). |
-| Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/). More than 70 developers in 8 countries. |
-| Dec 2018 to Dec 2020 | CTO | [WorldRoamer](https://www.worldroamer.com/). More than 50,000 listings at MVP. |
-| Jul 2017 to Sep 2018 | VP Engineering | [RingMD](https://www.ring.md/). [Ministry of Health](https://www.moh.gov.sg/) sandbox and India's Common Services Centre network. |
-| Jun 2016 to Jun 2017 | Director, Creative Technology | GROUP IDD, Seoul. [Samsung](https://www.samsung.com/), [Hyundai](https://www.hyundai.com/worldwide/en), [Kia](https://worldwide.kia.com/en), [L'Oréal](https://www.loreal.com/en/), [3M](https://www.3m.com/), [Burberry](https://www.burberry.com/), [Korea Tourism Organization](https://knto.or.kr/). |
-| 2007 to 2009 | University lecturer | [University of Jendouba](https://uj.rnu.tn/), Béja, Tunisia. |
+| Jul 2026 to present | Lead AI solution architect | AI platform company, independent contractor. Applied AI products and services. Launched a new platform that reached recurring revenue within 90 days. |
+| Jun 2026 to present | AI instructor | Self employed, remote. AI skills and agentic workflows for business owners and professionals. More than 100 lessons for learners in eight countries. |
+| Oct 2025 to Dec 2025 | Entrepreneur in Residence | [Antler](https://www.antler.co/), Riyadh. Early stage venture capital firm. Cofounded FMInsight for facility management across the GCC. |
+| Nov 2024 to Sep 2025 | Digital Director | [MBLM](https://mblm.com/), Dubai. Brand agency. Led digital delivery for [Dubai World Trade Centre](https://www.dwtc.com/en/) and presales for [allumni.ai](https://www.allumni.ai/). |
+| 2024 | Interim CEO | [Madison Technologies](https://madison-technologies.com/), Singapore. [Salesforce](https://www.salesforce.com/) and [ClickUp](https://clickup.com/) partner. |
+| Aug 2022 to Jan 2024 | Cofounder and CEO | Kempus, Singapore. Online community for university students. Expanded to 33 US universities within 6 months of launch. |
+| Jan 2021 to Aug 2022 | VP Engineering | [Quincus](https://quincus.com/), Singapore. Logistics software. Led more than 70 developers in 8 countries. |
+| Dec 2018 to Dec 2020 | CTO | [WorldRoamer](https://www.worldroamer.com/), Singapore. Travel tech. More than 50,000 listings at MVP. |
+| Jul 2017 to Sep 2018 | VP Engineering | [RingMD](https://www.ring.md/), Singapore. Telemedicine. Launched under the [Ministry of Health](https://www.moh.gov.sg/) telemedicine sandbox. |
+| Jun 2016 to Jun 2017 | Director, Creative Technology | GROUP IDD, Seoul. Creative technology agency. Clients included [Samsung](https://www.samsung.com/), [Hyundai](https://www.hyundai.com/worldwide/en), [Kia](https://worldwide.kia.com/en), and [L'Oréal](https://www.loreal.com/en/). |
+| 2007 to 2009 | University lecturer | [University of Jendouba](https://uj.rnu.tn/), Béja, Tunisia. Public university. |
 
 <details markdown="1">
 <summary>Earlier roles</summary>
 
 | Years | Role | Organization |
 | --- | --- | --- |
-| 2013 to 2016 | Founder and CEO | MovableAds, Seoul. Mobile fan engagement. Featured in [Forbes](https://www.forbes.com/sites/gbcurley/2015/05/25/south-koreas-startup-culture-marred-by-misguided-ambitions/) and [Hankyung](https://www.hankyung.com/article/2015031695271). |
-| 2012 to 2013 | Lead Software Engineer | [Cheil Worldwide](https://www.cheil.com/), Seoul. |
-| 2011 to 2012 | Tech lead | Joined a Samsung Group company, [Cheil Worldwide](https://www.cheil.com/), through an acqui-hire, Seoul. |
-| 2010 to 2011 | Cofounder and CTO | Jellycoaster, Seoul. Finger Map and OPTIMAP for [Kia](https://worldwide.kia.com/en). |
-| 2009 to 2010 | Founding Lead Developer | BRCH, Seoul. Modubuy.com. |
-| 1999 to 2007 | Developer and founder | Seoul. Oneday Mall, Jayster Network, Blooming Daisy Production, Suntech Electronics, and K.E.L. |
+| 2013 to 2016 | Founder and CEO | MovableAds, Seoul. Sports technology startup for mobile fan engagement. |
+| 2012 to 2013 | Lead Software Engineer | [Cheil Worldwide](https://www.cheil.com/), Seoul. Samsung Group marketing company. Samsung digital programs. |
+| 2011 to 2012 | Tech lead | Startup, Seoul. Acquired by [Cheil Worldwide](https://www.cheil.com/) of Samsung Group in an acquihire. |
+| 2010 to 2011 | Cofounder and CTO | Jellycoaster, Seoul. Tech startup. Finger Map and OPTIMAP for [Kia](https://worldwide.kia.com/en). |
+| 2009 to 2010 | Founding Lead Developer | BRCH, Seoul. Cross border commerce. Built Modubuy.com. |
+| 1999 to 2007 | Developer and founder | Several companies, Seoul. Web, ecommerce, and digital production. |
 
 </details>
 
