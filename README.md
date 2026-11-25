@@ -162,9 +162,9 @@ Contributor to Memdoor, an open source coding agent. The agent asks for approval
 
 Contributor to Vercel Labs' agent-browser, a command line tool that lets AI agents drive a web browser. Session capture is fail safe, so an incomplete capture never overwrites the last good autosave and users don't lose their saved browser state.
 
-### [localthings](https://github.com/mbillow/localthings)
+### [LocalThings](https://github.com/mbillow/localthings)
 
-Contributor to localthings, an open source way to control Samsung appliances from Home Assistant over the home network, with no cloud account. Starting a cook requires permission to control that oven's start button, and permission for one oven cavity cannot start the other, so people in a shared home can only start the appliances they are allowed to control.
+Contributor to LocalThings, an open source way to control Samsung appliances from Home Assistant over the home network, with no cloud account. Starting a cook requires permission to control that oven's start button, and permission for one oven cavity cannot start the other, so people in a shared home can only start the appliances they are allowed to control.
 
 ### [Grounded RAG](https://rag.jael.ee)
 
