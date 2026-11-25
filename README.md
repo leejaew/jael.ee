@@ -137,26 +137,67 @@ Role, company, and years.
 
 ## Featured projects
 
-Name, what it is, and the stack.
+What each project does for the people who use it.
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Memtoon](https://memtoon.com/) | Revenue generating SaaS. A week becomes a manga webtoon. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
-| [JustRelay](https://justrelay-gcp-frontend.vercel.app/) | Public demo. AI home services concierge for expats in Korea. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
-| [api.jael.ee](https://api.jael.ee/) | Open government data. More than 150 public data APIs and more than 350,000 records, drawn from government and industry sources across several countries. | [![API](https://img.shields.io/badge/API-0A66C2?style=flat)](https://api.jael.ee/) |
-| Odoo MCP | Search and update Odoo through 17 tools. Read only by default. No public repo. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) |
-| [VisitKorea MCP](https://github.com/leejaew/visitkorea-mcp) | Open source Korea Tourism Organization data for all 17 provinces and major cities. | [![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) |
-| [LLM Gateway](https://gateway.chatforgoodtech.com/) | Multi model inference for an AI platform company, with Stripe billing. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
-| [Agent Orchestrator](https://orchestrator.chatforgoodtech.com/) | Chat and browser tasks for an AI platform company. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
-| [DWTC Hospitality](https://www.dwtchospitality.com/en/) | Led delivery of the bilingual Umbraco CMS corporate website for DWTC Hospitality, from development through launch. | [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/) [![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=flat&logo=umbraco&logoColor=white)](https://umbraco.com/) |
-| [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en) | Led delivery of the bilingual Umbraco CMS corporate website for Dubai Exhibition Centre, from development through launch. | [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=flat&logo=umbraco&logoColor=white)](https://umbraco.com/) |
+### [api.jael.ee](https://api.jael.ee/)
 
-<details markdown="1">
-<summary>More on the DWTC sites</summary>
+A catalog of more than 150 public data APIs with more than 350,000 records across Southeast Asia, East Asia, the Middle East, Oceania, Europe, and North America. Much of this government and industry data is published only as spreadsheets, PDFs, or web pages. api.jael.ee turns it into clean JSON for developers, researchers, and AI agents, covering hospitals, aged care homes, universities, MRT exits, childcare providers, and more. Every endpoint follows the same simple query rules, so one pattern works in every region. When a query fails, the error names the missing or blocked parameter so an agent can fix its own call. Names in Chinese and Arabic help assistants serve local users, and every source is checked for license and commercial use before it goes live.
 
-DWTC Hospitality covers private events, weddings, corporate and live events, food, venues, menus, and contact pathways. Dubai Exhibition Centre covers exhibitions, conferences, and large scale events for visitors, exhibitors, organizers, and venue services. Delivery included CMS implementation, deployment, and launch with DWTC stakeholders, design, development, content, and QA.
+### [LLM Gateway](https://gateway.chatforgoodtech.com/)
 
-</details>
+One place for developers, teams, and AI agents to reach many models through a single OpenAI compatible key. Users manage subscriptions and credits, see their usage, and get streaming chat, image input, voice transcription, and web search without wiring up each provider on their own. Guided installers set up popular coding agents in a few steps. Shared balances stay accurate across apps, provider health checks catch failing models early, and revocable access grants and encrypted credentials keep accounts under control.
+
+### [Agent Orchestrator](https://orchestrator.chatforgoodtech.com/)
+
+An AI chat and browser task app for writing, research, and everyday work across many models. Users sign in with their LLM Gateway account and start right away with their existing subscription or credits, or bring their own model endpoint. The assistant can search the web, read pages, click, and type in a real browser. Long answers keep going past a model's output limit and are saved as one reply. Users pick their search engine, browser automation, default model, and standing instructions, and their chats are saved, exportable to Markdown, and protected by per user encryption.
+
+### Grounded RAG
+
+Helps people and teams find answers in their own documents and see exactly where each answer came from. Users set up private workspaces and document collections, invite members, and check the supporting passages and source citations behind every answer. Saved answers stay readable even after a source document is deleted. Users can save questions, give feedback, and bring their own account from OpenAI, Anthropic, OpenRouter, or any OpenAI compatible service. Workspaces are kept separate, roles and signup approval control access, and provider keys are stored encrypted.
+
+### [Memtoon](https://memtoon.com/)
+
+Turns a user's week into a personalized manga webtoon with no drawing or writing needed. Users connect Google Calendar or upload a photo, and Memtoon writes a story from their real events and draws up to 10 panels. A selfie makes the user the main character, drawn the same way in every panel, and the selfie is deleted after use. Generation keeps running if the browser closes, and users can choose to share finished webtoons in a public gallery. Memtoon was named Judge's Favorite at the Replit Agent 4 Buildathon.
+
+### [JustRelay](https://justrelay-gcp-frontend.vercel.app/)
+
+Home services in Korea for expats who don't speak Korean. Users describe what they need in one English message, such as a plumber, a cleaner, or a handyman, and an AI concierge finds vetted local providers ranked by fit, distance, and reviews. It then sends the booking inquiry for them, or writes a polite Korean message with natural honorifics that they can paste into KakaoTalk, SMS, or email. It keeps track of scheduling, avoids double bookings, and follows each request until the job is done. Public demo.
+
+### Odoo MCP server
+
+Lets AI assistants work with Odoo ERP through 17 tools for searching records, looking up data models, and making controlled updates across sales, purchasing, inventory, CRM, and other apps, without putting ERP credentials in prompts. It is read only by default. Writes can be previewed first and can require a single use approval tied to that exact change, and allowlists limit which models and actions an agent can touch. It works with Odoo 18, 19, and 20, with local and remote AI clients, and with any model provider. When a write's outcome is uncertain, it says so, so the client can check before retrying. No public repo.
+
+### [VisitKorea MCP server](https://github.com/leejaew/visitkorea-mcp)
+
+Gives AI assistants direct access to the Korea Tourism Organization's official English tourism data for all 17 provinces of South Korea. Any compatible assistant can find attractions, cultural sites, restaurants, places to stay, shopping, leisure, and festivals by area, by keyword, or by distance from a GPS point. It can look up festivals by date and region and pull venue details such as opening hours, admission fees, closing days, parking, room types, menus, and photos. Open source under the MIT license.
+
+### Guardian Watch
+
+An early warning platform for child protection in Singapore. Community members report concerns through Telegram, and officers see them in a secure dashboard. AI sorts incoming reports, a separate rule based engine scores risk for areas and schools, and people review every result before anyone acts. No public page.
+
+### BFG Stride
+
+A prototype for BearyFun Gym that helps staff run student operations and keep families engaged. It handles class scheduling and attendance, flags students who may drop out, and drafts replies to parents that staff review before sending. Permissions by role and by center, plus audit logs, keep data access in check. No public page.
+
+### E-Bridge Inquiry Journal
+
+A prototype for E-Bridge Pre-School that guides teachers through practitioner inquiry, from shaping a structured research question to gathering evidence, writing reflections, and producing reports, with review queues for school leaders. AI stays off until it is turned on on purpose and data handling is approved, and the prototype uses synthetic data only. No public page.
+
+### [DWTC Hospitality](https://www.dwtchospitality.com/en/)
+
+The bilingual corporate website for Dubai World Trade Centre's hospitality division. Guests can explore private events, weddings, corporate and live events, food, venues, and menus, and reach the team quickly. The site presents DWTC Hospitality's premium service in a clear structure that staff can keep current on their own.
+
+### [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en)
+
+The bilingual corporate website for Dubai Exhibition Centre, presenting it as a global venue for exhibitions, conferences, and large events. Visitors, exhibitors, and organizers each get a clear path to what they need, from venue services and hospitality to advertising, sustainability, and destination information. The content team can update the site themselves as events change.
+
+### [agent-browser](https://github.com/vercel-labs/agent-browser/pull/2746)
+
+A merged contribution to Vercel Labs' agent-browser, a command line tool that lets AI agents drive a web browser. The change makes session capture fail safe, so an incomplete capture never overwrites the last good autosave and users don't lose their saved browser state.
+
+### [Memdoor](https://github.com/guregodevo/memdoor)
+
+Two merged contributions to Memdoor, an open source coding agent. The agent now asks for approval before a delegated workflow starts or resumes, and it stops reviewer reruns when the user presses Stop, so people stay in control of what the agent does.
 
 <details markdown="1">
 <summary>More projects</summary>
@@ -171,7 +212,6 @@ DWTC Hospitality covers private events, weddings, corporate and live events, foo
 | [Ripplet.me](https://ripplet.me/) | Open source discussion platform. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
 | [Secure Chat](https://github.com/leejaew/secure-chat) | Open source starter for encrypted group chat. | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
 | Chat4Physio | Physio translation proof of concept. No raw audio is stored. No public page. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
-| Guardian Watch | Child protection early warning for Singapore. No public page. | [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) |
 
 </details>
 
