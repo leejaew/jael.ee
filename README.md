@@ -162,6 +162,10 @@ Contributor to Memdoor, an open source coding agent. The agent asks for approval
 
 Contributor to Vercel Labs' agent-browser, a command line tool that lets AI agents drive a web browser. Session capture is fail safe, so an incomplete capture never overwrites the last good autosave and users don't lose their saved browser state.
 
+### [localthings](https://github.com/mbillow/localthings)
+
+Contributor to localthings, an open source way to control Samsung appliances from Home Assistant over the home network, with no cloud account. Starting a cook requires permission to control that oven's start button, and permission for one oven cavity cannot start the other, so people in a shared home can only start the appliances they are allowed to control.
+
 ### [Grounded RAG](https://rag.jael.ee)
 
 Helps people and teams find answers in their own documents and see exactly where each answer came from. Users set up private workspaces and document collections, invite members, and check the supporting passages and source citations behind every answer. Saved answers stay readable even after a source document is deleted. Users can save questions, give feedback, and bring their own account from OpenAI, Anthropic, OpenRouter, or any OpenAI compatible service. Workspaces are kept separate, roles and signup approval control access, and provider keys are stored encrypted.
@@ -197,17 +201,21 @@ Lets AI assistants work with Odoo ERP through 17 tools for searching records, lo
 
 Gives AI assistants direct access to the Korea Tourism Organization's official English tourism data for all 17 provinces of South Korea. Any compatible assistant can find attractions, cultural sites, restaurants, places to stay, shopping, leisure, and festivals by area, by keyword, or by distance from a GPS point. It can look up festivals by date and region and pull venue details such as opening hours, admission fees, closing days, parking, room types, menus, and photos. Open source under the MIT license.
 
-### [Guardian Watch](https://guardian.chatforgoodtech.com)
+### [E-Bridge Inquiry Journal](https://journal.chatforgoodtech.com)
 
-An early warning platform for child protection in Singapore. Community members report concerns through Telegram, and officers see them in a secure dashboard. AI sorts incoming reports, a separate rule based engine scores risk for areas and schools, and people review every result before anyone acts. No public page.
+A prototype for E-Bridge Pre-School that guides teachers through practitioner inquiry, from shaping a structured research question to gathering evidence, writing reflections, and producing reports, with review queues for school leaders. AI stays off until it is turned on on purpose and data handling is approved, and the prototype uses synthetic data only. No public page.
 
 ### [BFG Stride](https://stride.chatforgoodtech.com)
 
 A prototype for BearyFun Gym that helps staff run student operations and keep families engaged. It handles class scheduling and attendance, flags students who may drop out, and drafts replies to parents that staff review before sending. Permissions by role and by center, plus audit logs, keep data access in check. No public page.
 
-### [E-Bridge Inquiry Journal](https://journal.chatforgoodtech.com)
+### [Guardian Watch](https://guardian.chatforgoodtech.com)
 
-A prototype for E-Bridge Pre-School that guides teachers through practitioner inquiry, from shaping a structured research question to gathering evidence, writing reflections, and producing reports, with review queues for school leaders. AI stays off until it is turned on on purpose and data handling is approved, and the prototype uses synthetic data only. No public page.
+An early warning platform for child protection in Singapore. Community members report concerns through Telegram, and officers see them in a secure dashboard. AI sorts incoming reports, a separate rule based engine scores risk for areas and schools, and people review every result before anyone acts. No public page.
+
+### [Chat4Physio](https://physio.chatforgoodtech.com)
+
+Physio translation proof of concept. No raw audio is stored.
 
 ### [DWTC Hospitality](https://www.dwtchospitality.com/en/)
 
@@ -216,10 +224,6 @@ The bilingual corporate website for Dubai World Trade Centre's hospitality divis
 ### [Dubai Exhibition Centre](https://www.dubaiexhibitioncentre.com/en)
 
 The bilingual corporate website for Dubai Exhibition Centre, presenting it as a global venue for exhibitions, conferences, and large events. Visitors, exhibitors, and organizers each get a clear path to what they need, from venue services and hospitality to advertising, sustainability, and destination information. The content team can update the site themselves as events change.
-
-### [Chat4Physio](https://physio.chatforgoodtech.com)
-
-Physio translation proof of concept. No raw audio is stored.
 
 </details>
 
