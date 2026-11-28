@@ -6,11 +6,12 @@
 | | |_| / ___ \| |___| |___ _| |___| |___                                             |
 |  \___/_/   \_\_____|_____(_)_____|_____|                                            |
 |                                                                                     |
-| role      AI solution architect                                                     |
-| also      Teaching & mentoring Python and AI | Python book author | Startup advisor |
-| building  AI agents | RAG | MCP servers | production AI systems                     |
-| status    open to consulting | advisory | projects | senior roles                   |
-| contact   hello@jael.ee                                                             |
+| role       AI solution architect                                                    |
+| helping    teams build their own AI agents for real work                            |
+| also       Python book author | Startup advisor                                     |
+| builds     AI agents | RAG | MCP servers | production AI systems                    |
+| open to    consulting | advisory | projects | senior roles                          |
+| contact    hello@jael.ee                                                            |
 |                                                                                     |
 +-------------------------------------------------------------------------------------+
 ```
